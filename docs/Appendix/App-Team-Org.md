@@ -15,16 +15,6 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-<<<<<<< HEAD
-|Ayush |  Yes | Yes | Yes |
-|Armando|  Yes | Yes | Yes |
-|Manny |  Yes | Yes | Yes |
-=======
-|Armando Botiller |  Discord | Text | Email |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
->>>>>>> 515966403295fad44d139cbe2ce871f0beabc12f
 |Armando Botiller|  Discord | Text | Email |
 |Manuel Castro|  Discord | Text | Email |
 |Ayush Rathi|  Text | Discord | Email |
