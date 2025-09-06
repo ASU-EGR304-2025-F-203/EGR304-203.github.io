@@ -6,12 +6,12 @@ tags:
 ---
 ## Team Charter
 
-From the ... which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be (showing ASU's Charter as an Example):
+From the ... which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be:
 
-> "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves." (ASU's Charter)
+> "Our team will design, prototype, and demonstrate an innovative home solution that leverages sensor-based technology to improve everyday household tasks. Each member will contribute a unique subsystem, implemented on a dedicated PCB, which will be integrated into the final system. The project will emphasize sensor amplification, filtering, and digitization to create a reliable and efficient design that saves resources, eliminates manual steps, and enhances convenience in the home environment."
 
 ## Product Mission Statement
 
 Describe the distilled purpose, function, or reason for your product to exist. From this form a team mission statement. Google's mission statement is:
 
- > "Google's mission is to organize the world's information and make it universally accessible and useful."
+ > "Our mission is to create a practical, sensor-driven smart appliance system that simplifies daily living, conserves resources, and demonstrates the power of collaborative engineering through modular PCB-based design."
