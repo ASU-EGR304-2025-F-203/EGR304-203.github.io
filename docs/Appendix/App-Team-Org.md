@@ -114,7 +114,6 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 
 ## Signatures
-Ayush Rathi -
-Manuel Castro -
-
-
+Ayush Rathi <br>
+Manuel Castro <br>
+Armando Botiller
