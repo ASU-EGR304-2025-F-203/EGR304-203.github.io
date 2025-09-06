@@ -15,40 +15,39 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Armando Botiller |  Discord | Text | Email |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Armando Botiller|  Discord | Text | Email |
+|Manuel Castro|  Discord | Text | Email |
+|Ayush Rathi|  Text | Discord | Email |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+The primary method of contact will be a text group chat that we have created. The second best point of contact will be Discord. Email will be available as option, but the first two options are preferred.
  
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+1. We will communicate via text messages, canvas announcements, and discord.
+2. Manuel will handle correspondence with instructor and he will update the group chat.
 
 ## Meeting Schedule
 
 _**Appendix Table 2**: Weekly Schedule_
 
-| Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-| :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | - | - | - | - | - |
-| 9:00 AM | - | - | - | - | - | - | - |
-| 10:00 AM | - | - | - | - | - | - | - |
-| 11:00 AM | - | - | - | - | - | - | - |
-| 12:00 PM | - | -, - | - | - | - | - | - |
-| 1:00 PM | -, - |  | - | - | - | - | - |
-| 2:00 PM | -, - | - | - | - | - | - | - |
-| 3:00 PM | - | - | - | - | - | - | - |
-| 4:00 PM | - | - | - | - | - | - | - |
-| 5:00 PM | - | - | - | - | - | - | - |
-| 6:00 PM | - | - | - | - | - | - | - |
-| 7:00 PM | - | - | - | - | - | - | - |
-| 8:00 PM | - | - | - | - | - | - | - |
-| 9:00 PM | - | - | - | - | - | - | - |
+| Time     | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| :------: | :----: | :----: | :----:  | :----: | :----: | :----: | :-----: |
+| 8:00 AM  | -      | -      | -       | -      | -      | -  | Ar |
+| 9:00 AM  | -      | -      | -       | -      | -      | -  | Ar |
+| 10:00 AM | -      | -      | -       | -      | -      | Ar | Ar |
+| 11:00 AM | -      | Ar     | -       | Ar     | -      | Ar | Ar |
+| 12:00 PM | -      | Ar     | -       | Ar     | -      | Ar | Ar |
+| 1:00 PM  | -      | Ar     | -       | Ar     | -      | Ar | Ar |
+| 2:00 PM  | -      | -      | -       | -      | -      | Ar | Ar |
+| 3:00 PM  | -      | -      | -       | -      | -      | Ar | -  |
+| 4:00 PM  | -      | -      | -       | -      | -      | Ar | -  |
+| 5:00 PM  | -      | -      | -       | -      | -      | -  | -  |
+| 6:00 PM  | -      | -      | -       | -      | -      | -  | -  |
+| 7:00 PM  | -      | -      | -       | -      | -      | -  | -  |
+| 8:00 PM  | -      | -      | -       | -      | -      | -  | -  |
+| 9:00 PM  | -      | -      | -       | -      | -      | -  | -  |
 
 _**Table Legend for Appendix Table 2**_
 
