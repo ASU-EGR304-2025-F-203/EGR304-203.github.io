@@ -36,20 +36,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time     | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----:  | :----: | :----: | :----: | :-----: |
-| 8:00 AM  | -      | -      | -       | -      | -      | -  | Ar |
-| 9:00 AM  | -      | -      | -       | -      | -      | -  | Ar |
-| 10:00 AM | -      | -      | -       | -      | -      | Ar | Ar |
-| 11:00 AM | -      | Ar     | -       | Ar     | -      | Ar | Ar |
-| 12:00 PM | -      | Ar     | -       | Ar     | -      | Ar | Ar |
-| 1:00 PM  | -      | Ar     | -       | Ar     | -      | Ar | Ar |
-| 2:00 PM  | -      | -      | -       | -      | -      | Ar | Ar |
-| 3:00 PM  | -      | -      | -       | -      | -      | Ar | -  |
-| 4:00 PM  | -      | -      | -       | -      | -      | Ar | -  |
-| 5:00 PM  | -      | -      | -       | -      | -      | -  | -  |
-| 6:00 PM  | -      | -      | -       | -      | -      | -  | -  |
-| 7:00 PM  | -      | -      | -       | -      | -      | -  | -  |
-| 8:00 PM  | -      | -      | -       | -      | -      | -  | -  |
-| 9:00 PM  | -      | -      | -       | -      | -      | -  | -  |
+| 8:00 AM  | -      | -      | -       | -      | -      | -  | Ar    |
+| 9:00 AM  | -      | -      | -       | -      | -      | -  | Ar    |
+| 10:00 AM | -      | -      | -       | -      | -      | Ar | Ar    |
+| 11:00 AM | -      | Ar Ay  | -       | Ar     | -      | Ar | Ar    | 
+| 12:00 PM | -      | Ar Ay  | -       | Ar     | -      | Ar | Ar    |
+| 1:00 PM  | -      | Ar Ay  | -       | Ar     | -      | Ar | Ar Ay |
+| 2:00 PM  | -      | -      | -       | -      | -      | Ar | Ar Ay |
+| 3:00 PM  | -      | -      | -       | -      | -      | Ar | -     |
+| 4:00 PM  | -      | -      | -       | -      | -      | Ar | -     |
+| 5:00 PM  | -      | -      | -       | -      | -      | -  | -     |
+| 6:00 PM  | -      | -      | -       | -      | -      | -  | -     |
+| 7:00 PM  | -      | -      | -       | -      | -      | -  | Ay    |
+| 8:00 PM  | -      | -      | -       | Ay     | -      | -  | Ay    |
+| 9:00 PM  | -      | -      | -       | Ay     | -      | -  | Ay    |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -84,6 +84,7 @@ Need to add content!!
 
 
 ## Signatures
+Ayush Rathi
 
 Need to add content!!
 
