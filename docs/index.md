@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
+<font size="8">Embedded Systems Design Home Solution<br>
 <font size="5">Team 203<br>
-**Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+**Submission: 09, 05, 2025**<br>
+Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Kevin Nichols<br>
   
 
 </center>
