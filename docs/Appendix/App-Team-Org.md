@@ -15,12 +15,24 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
+<<<<<<< HEAD
+|Ayush |  Yes | Yes | Yes |
+|Armando|  Yes | Yes | Yes |
+|Manny |  Yes | Yes | Yes |
+=======
+|Armando Botiller |  Discord | Text | Email |
+|Member 2 |  ? | ? | ? |
+|Member 3 |  ? | ? | ? |
+|Member 4 |  ? | ? | ? |
+>>>>>>> 515966403295fad44d139cbe2ce871f0beabc12f
 |Armando Botiller|  Discord | Text | Email |
 |Manuel Castro|  Discord | Text | Email |
 |Ayush Rathi|  Text | Discord | Email |
 
 ### Main Method for Group Communication
 
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+The primary method of contact will be a text group chat that we have created. The second best point of contact will be Discord. Email will be available as option, but the first two options are preferred. 
 The primary method of contact will be a text group chat that we have created. The second best point of contact will be Discord. Email will be available as option, but the first two options are preferred.
  
 ## Communication Procedures
