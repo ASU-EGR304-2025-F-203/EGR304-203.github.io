@@ -17,10 +17,11 @@ tags:
 
 ## Search #1
 **Keywords:** "home automation"
-**Search result link**: https://www.amazon.com/s?k=home+automation&crid=28YP1ZDUDCWNI&sprefix=home+automation%2Caps%2C307
-1. **Selected Product**: [Kasa Smart Plug Power Strip KP303](https://www.amazon.com/Kasa-Smart-Protector-Required-KP303/dp/B083JKSSR5?ie=UTF8)
+<br>**Search result link**: https://www.amazon.com/s?k=home+automation&crid=28YP1ZDUDCWNI&sprefix=home+automation%2Caps%2C307<br>
+<br>**1. Selected Product**: [Kasa Smart Plug Power Strip KP303](https://www.amazon.com/Kasa-Smart-Protector-Required-KP303/dp/B083JKSSR5?ie=UTF8)
 
-![Kasa Smart Plug image.](kasa smart plug.jpg)
+![Emporia Smart Plug four pack image.](kasasmartplug.jpg)
+<br>**Figure 1** Kasa Smart Protector
 
 Price: $30
 
@@ -34,10 +35,12 @@ Description: Smart surge protector with three independently controlled outlets a
 
 ## Search #2
 **Keywords:** "smart power strip energy monitoring"
-**Search result link**: https://www.amazon.com/s?k=smart+power+strip+energy+monitoring&crid=1HTJ1BNZKTC8E&sprefix=smart+power+strip+energy+monitoring%2Caps%2C379&ref=nb_sb_noss_1
-1. **Selected Product**: [Emporia Energy Monitoring Smart Plug EMSO1-4](https://a.co/d/4s87wz8)
+<br>**Search result link**: https://www.amazon.com/s?k=smart+power+strip+energy+monitoring&crid=1HTJ1BNZKTC8E&sprefix=smart+power+strip+energy+monitoring%2Caps%2C379&ref=nb_sb_noss_1<br>
+<br> **2. Selected Product**: [Emporia Energy Monitoring Smart Plug EMSO1-4](https://a.co/d/4s87wz8)
 
 ![Emporia Smart Plug four pack image.](emporiasmartoutlet.jpg)
+<br>**Figure 2** Emporia Smart Outlet
+
 
 Price: $35
 
@@ -61,6 +64,21 @@ Description: App controlled smart outlet with enertgy monitoring. 2.4GHz and 5GH
 
 1. I had one fail shortly after install that was connected to a basement freezer. This device just failed, and the freezer did not have power for two days until I noticed it. Unfortunately, I had to throw away a few hundred dollars worth of food stored in that freezer.
 2. They clearly state it now, but the didn't when I purchased these devices, but they are only 15 amps for 1 hour and then they shut down. I have an old house and have a few portable electric heaters plugged into these devices so I can turn on heat in the kitchen and bathroom on a schedule so it is warming up by the time I get out of bed. Unfortunately, these devices don't work well in that scenario, unless I want to switch all of the heaters to low power, which kinds of defeats the purpose of warming those spaces up quickly. They should stop the false advertising and just list these as 10 am devices. | 1. Notification to user is needed when power fails(implicit).<br><br> 2. Power management of multiple devices(explicit).<br><br> 3. Higher continuous draw support (explicit).
+
+
+## Search #4
+**Keywords:** "smart power strip energy monitoring"
+**Search result link**: https://www.amazon.com/s?k=smart+power+strip+energy+monitoring&crid=1HTJ1BNZKTC8E&sprefix=smart+power+strip+energy+monitoring%2Caps%2C379&ref=nb_sb_noss_1
+<br>**4. Selected Product**: [Emporia Energy Monitoring Smart Plug EMSO1-4](https://a.co/d/4s87wz8)
+
+![Emporia Smart Plug four pack image.](emporiasmartoutlet.jpg)
+
+Price: $35
+
+Vendor: Amazon
+
+Description: App controlled smart outlet with enertgy monitoring. 2.4GHz and 5GHz wireless compatible.  The power outlet comes with Alexa and Google Home integration. Android and iOS devices and is ETL certified. Ten amp max continuous load and fifteen amp peak load for one hour per day.
+
 
 
 1. listum primo
