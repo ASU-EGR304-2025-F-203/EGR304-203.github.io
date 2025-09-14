@@ -44,9 +44,9 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Armando Botiller|  Discord | Text | Email |
-|Manuel Castro|  Discord | Text | Email |
-|Ayush Rathi|  Text | Discord | Email |
+|Armando Botiller     |  Discord                   |  Text                       | Email                      |
+|Manuel Castro        |  Discord                   |  Text                       | Email                      |
+|Ayush Rathi          |  Text                      |  Discord                    | Email                      |
 
 ### Main Method for Group Communication
 
