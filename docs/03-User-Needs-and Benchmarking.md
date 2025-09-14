@@ -5,21 +5,25 @@ tags:
 - tag2
 ---
 
-## Et poposcerat rursus ad magnus premit
+## Introduction
+1. What is your group trying to accomplish? 
+> Our group is trying to create an innovative home solution using sensors to make everyday life easier for our target customers.
+2. Who are your target users?
+> Our target users is anybody who prioritizes making their home more comfortable and convenient. These include:
+* People single or married, of any age range, and of any level of physical disability, renting or owning the current space they live in, with access to electricity.
+* Children of people renting or owning said space.
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+## Voice of customer benchmarking
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+## Search #1
+**Keywords:** "home automation"
+**Search result link**: https://www.amazon.com/s?k=home+automation&crid=28YP1ZDUDCWNI&sprefix=home+automation%2Caps%2C307
+**Selected Product**: [Kasa Smart Plug Power Strip KP303](https://www.amazon.com/Kasa-Smart-Protector-Required-KP303/dp/B083JKSSR5?ie=UTF8)
 
-## Esse quoque sedem plena nunc iecur
-
-Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
-mea. Nec tamen quae gravem, potens, [cognoscendo
-scripta](http://vidit-lumine.io/sinusdeum). *Nihil ventis Aeneae* probat.
+| Voice of customer | Restated Customer Need |
+|:----------------: | :--------------------: |
+|"I got this because the app is user friendly, easy to set up & it was easy to connect to my Alexa and works well [...] but still wish it was cheaper
+I wish the cord was longer though and it was a flat head plug"|
 
 1. listum primo
 
