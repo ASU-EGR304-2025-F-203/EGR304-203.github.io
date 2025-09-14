@@ -21,7 +21,7 @@ tags:
 **Selected Product**: [Kasa Smart Plug Power Strip KP303](https://www.amazon.com/Kasa-Smart-Protector-Required-KP303/dp/B083JKSSR5?ie=UTF8)
 
 | Voice of customer | Restated Customer Need |
-|:----------------: | :--------------------: |
+|-------------------|------------------------|
 |"I got this because the app is user friendly, easy to set up & it was easy to connect to my Alexa and works well [...] but still wish it was cheaper I wish the cord was longer though and it was a flat head plug"|
 
 1. listum primo
