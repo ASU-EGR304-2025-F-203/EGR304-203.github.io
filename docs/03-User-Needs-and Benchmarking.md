@@ -22,8 +22,7 @@ tags:
 
 | Voice of customer | Restated Customer Need |
 |:----------------: | :--------------------: |
-|"I got this because the app is user friendly, easy to set up & it was easy to connect to my Alexa and works well [...] but still wish it was cheaper
-I wish the cord was longer though and it was a flat head plug"|
+|"I got this because the app is user friendly, easy to set up & it was easy to connect to my Alexa and works well [...] but still wish it was cheaper I wish the cord was longer though and it was a flat head plug"|
 
 1. listum primo
 
