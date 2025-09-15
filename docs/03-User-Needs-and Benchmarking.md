@@ -16,12 +16,12 @@ tags:
 ## Voice of customer benchmarking
 
 ## Search #1
-**Keywords:** "home automation"
-<br>**Search result link**: https://www.amazon.com/s?k=home+automation&crid=28YP1ZDUDCWNI&sprefix=home+automation%2Caps%2C307<br>
-<br>**1. Selected Product**: [Kasa Smart Plug Power Strip KP303](https://www.amazon.com/Kasa-Smart-Protector-Required-KP303/dp/B083JKSSR5?ie=UTF8)
+**Keywords:** "home automation"<br>
+**Search result link**: https://www.amazon.com/s?k=home+automation&crid=28YP1ZDUDCWNI&sprefix=home+automation%2Caps%2C307<br><br>
+**1. Selected Product**: [Kasa Smart Plug Power Strip KP303](https://www.amazon.com/Kasa-Smart-Protector-Required-KP303/dp/B083JKSSR5?ie=UTF8)
 
-![Emporia Smart Plug four pack image.](kasasmartplug.jpg)
-<br>**Figure 1** Kasa Smart Protector
+![Emporia Smart Plug four pack image.](kasasmartplug.jpg)<br>
+**Figure 1** Kasa Smart Protector
 
 Price: $30
 
@@ -34,12 +34,12 @@ Description: Smart surge protector with three independently controlled outlets a
 |"I got this because the app is user friendly, easy to set up & it was easy to connect to my Alexa and works well [...] but still wish it was cheaper I wish the cord was longer though and it was a flat head plug"| App should be user friendly, affordable, and have a convenient plug shape (latent). |
 
 ## Search #2
-**Keywords:** "smart power strip energy monitoring"
-<br>**Search result link**: https://www.amazon.com/s?k=smart+power+strip+energy+monitoring&crid=1HTJ1BNZKTC8E&sprefix=smart+power+strip+energy+monitoring%2Caps%2C379&ref=nb_sb_noss_1<br>
-<br> **2. Selected Product**: [Emporia Energy Monitoring Smart Plug EMSO1-4](https://a.co/d/4s87wz8)
+**Keywords:** "smart power strip energy monitoring" <br>
+**Search result link**: https://www.amazon.com/s?k=smart+power+strip+energy+monitoring&crid=1HTJ1BNZKTC8E&sprefix=smart+power+strip+energy+monitoring%2Caps%2C379&ref=nb_sb_noss_1<br><br>
+**2. Selected Product**: [Emporia Energy Monitoring Smart Plug EMSO1-4](https://a.co/d/4s87wz8)
 
-![Emporia Smart Plug four pack image.](emporiasmartoutlet.jpg)
-<br>**Figure 2** Emporia Smart Outlet
+![Emporia Smart Plug four pack image.](emporiasmartoutlet.jpg)<br>
+**Figure 2** Emporia Smart Outlet
 
 
 Price: $35
@@ -67,13 +67,14 @@ Description: App controlled smart outlet with enertgy monitoring. 2.4GHz and 5GH
 
 ## Search #3
 >**Keywords:** "smart plug power strip programmable" <br>
-**Search result link**: https://www.amazon.com/s?k=smart+plug+power+strip+programmable&crid=4ZAZMKROGOZ6&sprefix=smart+plug+power+strip+programmable%2Caps%2C389 <br>
+**Search result link**: https://www.amazon.com/s?k=smart+plug+power+strip+programmable&crid=4ZAZMKROGOZ6&sprefix=smart+plug+power+strip+programmable%2Caps%2C389 <br><br>
 **Selected Product**: [HBN Outdoor Smart Plug](https://www.amazon.com/HBN-Outdoor-Waterproof-Compatible-Assistant/dp/B0C65K1S8V?crid=4ZAZMKROGOZ6&dib=eyJ2IjoiMSJ9.bueRwh-e_4xF94EssdD04F5lZGyeykhWeEtDije3gqPGjHj071QN20LucGBJIEps.6xwVN6Npg1i8Kg0wqsf-YVJ1MgLRNIQCJcRUpMtr2tM&dib_tag=se&keywords=smart%2Bplug%2Bpower%2Bstrip%2Bprogrammable&qid=1757876364&sprefix=smart%2Bplug%2Bpower%2Bstrip%2Bprogrammable%2Caps%2C389&sr=8-19&xpid=IiIRdXITkfjd4&th=1) <br>
 Price: $24.64 <br>
 Vendor: Amazon <br>
 Description: This smart outdoor plug features six grounded outlets with overload protection, a 6-foot extension cord, and a weather-resistant stake design for reliable use in rain, snow, and wind. Compatible with Alexa, Google Assistant, and the Smart Life/TUYA apps, it allows for convenient voice control, scheduling, and timer settings to easily manage holiday lights, garden décor, or other outdoor appliances. Simple to set up on a 2.4GHz Wi-Fi network, it offers hands-free control and collective power management, making it ideal for patios, backyards, landscaping, or seasonal decorations.
 
-![HBN Outdoor Smart Plug image](image\bnb_outlet_s3.png) <br>**Figure 3** HBN Outdoor Smart Plug
+![HBN Outdoor Smart Plug image](image\bnb_outlet_s3.png) <br>
+**Figure 3** HBN Outdoor Smart Plug
 
 **Positive Comments**
 | Voice of customer                                                                                                                                                                                                                                                                                                                                                                 | Restated Customer Need                                                                                                                                                                              |
@@ -91,23 +92,48 @@ Description: This smart outdoor plug features six grounded outlets with overload
 
 
 ## Search #4
-**Keywords:** "smart power strip energy monitoring"
-**Search result link**: https://www.amazon.com/s?k=smart+power+strip+energy+monitoring&crid=1HTJ1BNZKTC8E&sprefix=smart+power+strip+energy+monitoring%2Caps%2C379&ref=nb_sb_noss_1
-<br>**4. Selected Product**: [Emporia Energy Monitoring Smart Plug EMSO1-4](https://a.co/d/4s87wz8)
+**Keywords:** "energy saving smart"<br>
+**Search result link**: https://www.google.com/search?q=energy+saving+smart+power+strip&rlz=1C1GCEA_enUS878US878&oq=energy+saving+smart+power&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMg0IBRAAGIYDGIAEGIoFMg0IBhAAGIYDGIAEGIoFMg0IBxAAGIYDGIAEGIoFMgoICBAAGIAEGKIE0gEJMTA0NTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#oshopproduct=gid:1373486050393941307,mid:576462771857904130,oid:11989638684473196982,iid:14029040634763611425,rds:UENfMTM3MzQ4NjA1MDM5Mzk0MTMwN3xQUk9EX1BDXzEzNzM0ODYwNTAzOTM5NDEzMDc%3D,pvt:hg,pvo:3,laoid:1&oshop=apv&pvs=0 <br><br>
+**4. Selected Product**: [Feit Electric Feit Smart 4 -Outlet 460 Joules 1875 -Watts White Indoor Various receptacles Surge Protector](https://www.lowes.com/pd/Feit-Electric-Feit-Smart-Surge-with-USB/5000875091?user=shopping&feed=yes&srsltid=AfmBOoq1J78UncASz3TyYHx9qXWjRuB4Pqgw6Zkq0Xy9Rtk2mK1S2-3YMks)
 
-![Emporia Smart Plug four pack image.](emporiasmartoutlet.jpg)
+![Feit electric power strip.](feitelectric.jpg)
 
-Price: $35
+Price: $49
 
-Vendor: Amazon
+Vendor: Lowes Home Improvement
 
-Description: App controlled smart outlet with enertgy monitoring. 2.4GHz and 5GHz wireless compatible.  The power outlet comes with Alexa and Google Home integration. Android and iOS devices and is ETL certified. Ten amp max continuous load and fifteen amp peak load for one hour per day.
+Description: Four USB ports and four power outlets that are WiFi enabled via a smartphone app. It has Google Assistant, Alexa, and Siri integration. Controllable with voice commands. For indoor appliance use, supports up to 15 amps.
+
+## Positive Comments
+| Voice of customer | Restated Customer Need |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+|"This outlet has a lot of potential though the design is not the best. I really like the idea of a smart outlet, especially one which has 4 USB ports, which is critical in the smart phone era. The outlet itself works well - it was easy to set up the smart connectivity (through the app, which is also designed well), and the features through the app are easy to use (turn off certain outlets, timing, etc.). It also syncs with Echo, though it doesn't always work great tbh (the fault is actually on Echo's side to be honest, as the software is not always smart to differentiate between the outlet and other smart devices in the same room). The 3 star review is for the design of the traditional outlets - they are spaced too close to each other! Too many devices today require some kind of a bulky adaptor (including the aforementioned Echos), and unfortunately, once you plug one of those in, you basically have only one space left for anything else. So if you're going to use it close to your bed or a working desk, you should be ok. But it's certainly not optimal for a media unit (with routers, modems, TVs, etc. where a surge-protected power-strip might be a better choice)."  | 1. Needs to have USB ports (explicit).<br><br> 2. User friendly app (latent).<br><br> 3. Outlets need to be well spaced (explicit).
+|"This smart power strip turned out to be a great alternative to in-wall smart switches and smart plugs because it can control each of the 4 outlets plus the USB cluster individually, all in one unit. So I can plug in a lamp, a humidifier and anything else that can stay in the ON position and turn them on or off in the app. The cool part is that it functions the same way through the Feit Electric app as it does in the Alexa app once I linked them. I renamed the outlets and can now turn the lamp on just by asking Alexa to do it. I can also turn off the whole power strip the same way. The Feit app is also easy to set up and use so I had everything up and running in just minutes. The blue LEDs show me which outlet is on at a glance, so there's no guessing when using Alexa. The power strip isn't all that larger than a non-smart power strip either, so it's easy to tuck away."| 1. Individual control of each outlet is desired (implicit).<br><br> 2. Voice assistant compatibility (explicit).<br><br> 3. LED light to indicate which outlet is turned on(implicit).
+|"This is a cool WiFi power strip, it has all the advantages of a power strip such as circuit protection and a on/off switch, not to mention the ability to plug in 4 outlet and 4 USB items at once. But you also get the advantages of a smart plug or outlet by way of the free app called Feit Electric. The setup is easy and adding or deleting a plugged in item is straightforward. Once you have an item setup on the power strip you can control the on/off state and setup timers to turn the item off and on when needed. You can also setup Alexa or Google so that you can control the power strip items via voice command. I have yet to try it but you should be able to integrate this power strip with other smart home items such as turning the strip off when you leave home and on when you return."|1. Circuit protection (explicit).<br><br> 2. Physical buttons for power activation(explicit).<br><br> 3. Timer functionality (explicit).
+
+## Negative Comments
+| Voice of customer | Restated Customer Need |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+|"The smartplug works fine. The only features is wifi on/off and scheduled on/off (e.g. on at 6pm and off at 10pm). Unfortunately, the app does NOT have more advance features - e.g. If you turn a device on, you want it to automatically turn off in 10 mins. (e.g. you forget to turn off your light). Or to have it on "all the time" and to turn off for only 10 mins and automatically on after 10 mins - (e.g. Pumps in an Aquarium during feeding). Other smart plugs have such features. I just wished they incorporated these features. Maybe the company need to hire more creative app designers."| 1. Needs controls for simple functions (explcit).<br><br> 2. Advanced control features are desired (explicit).<br><br> 3. Temporary off and on (explicit).
+|"I ordered three of these because I had (and still have) such great experiences with Feit's smart bulbs. Unfortunately, I cannot say the same for their smart plugs. Two out of the three would not complete pairing or would pair then stop working if I tried to move them to a different outlet. While the pairing process is not difficult, per se, I experienced many, many failures in trying to pair all three of them...whether in Auto or AP mode. This past Sunday was the last straw. I tried for two hours to pair both of the two in different outlets and different rooms. They would *occasionally* pair, but then the WiFi radio would disconnect and stop working. Most of the time, they wouldn't even pair. <br> I'm giving this two stars because one of them (finally) did pair and so far has stayed paired. But I'm afraid to move it because I think it will crap out on me again. I ended up a buying a 4-pack of "another brand" at Lowes for $20, and they work *flawlessly* (so far). <br> I highly recommend their smart bulbs, but I would steer clear of these unless you want to roll the dice and take a chance and them not working.. | 1. Reliable pairing process (explicit).<br><br> 2. Stable connectivity (explicit). <br><br> 3. Ease of setup accross devices and locations (implicit).
+|"Pros: Purchased this because it shares the same Feit app as the several in-wall hard-wired dimmer switches I have in the house. Easy setup and convenient when it does work, even has a on/off switch for manual operation. <br> Cons: Not reliable, once every few weeks this device will go offline requiring unplugging and reconnecting to reboot. I have concerns about turning lighting or device on/off from overseas while on vacation. I'm sure there are more reliable brands out there, but again, I kept this just because I have other devices using the Feit app. <BR>Overall: Good value if you don't mind the occasional offline and reset, even with the router 2 feet away. | 1. Consistent reliability(explicit).<br><br> 2. Trustworthy remote access(explicit).<br><br> 3. Cross device ecosystem compatibiltiy(implicit).
 
 
-
-**user needs list**<
+**User Needs List**<
 1. have fast charging for phones and laptop charging capability
 2. automatic troubleshooting, notifications, LED, buzzer, etc.
+3. Temporary on and off.
+4. Physical controls.
+5. LED indicators to show power state at each plug.
+6. Internal redundancy to not depend on network for operation.
+7. Proper spacing between outlets for larger power connectors for laptops and portable devices.
+8. Support for larger appliances such as refrigerators.
+9. High continous amperage rating to support the use or air conditioning units.
+10. Reliable network connectivity.
+11. Cross device compatibility.
+12. Voice control.
+13. Remote access capability.
+14. Portable.
 
 1. listum primo
 
