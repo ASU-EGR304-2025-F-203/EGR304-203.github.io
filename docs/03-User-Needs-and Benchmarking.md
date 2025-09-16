@@ -32,7 +32,7 @@ Description: Smart surge protector with three independently controlled outlets a
 ## Negative Comments
 
 | Voice of Customer | Restated Customer Need |
-|------------------|------------------------|
+|-------------------|------------------------|
 | "...still wish it was cheaper I wish the cord was longer though and it was a flat head plug" | 1. Product should be affordable (explicit)<br>2. Plug shape should be convenient (explicit) | |
 | "First time using something 'smart', decently easy to set up. Had to trouble shoot a few times but I got it. The only issue I have is the USB ports don’t apply to the wifi controls of the power strip." | 1. "Smart" shouldn't mean confusing (latent)<br>2. User shouldn't run into a whole lot of troubleshooting (latent)<br>3. All ports should be able to be individually controlled (explicit) | |
 | "Product works great…. However. It is somewhat deceiving that this 3 outlet plug does NOT have the same features as the 5 outlet (HS300 plug). I need to have energy monitoring (wattage). The 3 outlet plug just tells you the ‘run time’ measured in hours which doesn’t really do anything. Otherwise, this smaller surge protector is seamless and works as advertised. I just need to return it and buy the more expensive one to meet my needs. I wish they were more clear with the product description." | 1. Advertising should be clear (explicit)<br>2. Should show power usage not just "run time" (explicit)<br>3. The device should be as feature rich as a more expensive or larger sized product (latent) | |
