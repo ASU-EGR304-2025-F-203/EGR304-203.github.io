@@ -20,7 +20,7 @@ tags:
 **Search result link**: https://www.amazon.com/s?k=home+automation&crid=28YP1ZDUDCWNI&sprefix=home+automation%2Caps%2C307<br><br>
 **1. Selected Product**: [Kasa Smart Plug Power Strip KP303](https://www.amazon.com/Kasa-Smart-Protector-Required-KP303/dp/B083JKSSR5?ie=UTF8)
 
-![Emporia Smart Plug four pack image.](kasasmartplug.jpg)<br>
+![Kasa Smart Plug four pack image.](kasasmartplug.jpg)<br>
 **Figure 1** Kasa Smart Protector
 
 Price: $30
@@ -38,10 +38,11 @@ Description: Smart surge protector with three independently controlled outlets a
 
 **Positive Comments**
 | Voice of customer | Restated Customer Need |
-|-------------------|------------------------|
-|"I got this because the app is user friendly, easy to set up & it was easy to connect to my Alexa and works well"                                        |1. Device interface should be user friendly (explicit)<br> 2. It should not be a headache to setup(explicit) <br> 3. Easy to connect(explicit).<br> 4. Product should interface well with existing smart home devices (latent).
-|"I recommend getting the strip versus the individual plugs because it's more economical and always better to have more outlets than less."               |1. Product should have as many plugs as is reasonable to include (explicit)<br> 2. One smart system should control as many plugs as possible (latent).
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+|"I got this because the app is user friendly, easy to set up & it was easy to connect to my Alexa and works well"  | 1. Device interface should be user friendly (explicit)<br> 2. It should not be a headache to setup(explicit) <br> 3. Easy to connect(explicit).<br> 4. Product should interface well with existing smart home devices (latent).
+|"I recommend getting the strip versus the individual plugs because it's more economical and always better to have more outlets than less." |  1. Product should have as many plugs as is reasonable to include (explicit)<br> 2. One smart system should control as many plugs as possible (latent).
 |"I used it in an automated Halloween setup to control lighting of various scenes via a BAT script running on a PC via the Kasa Command Line interface..."|1. Product should allow manual control via a PC running a script and not rely on the smartphone app for automation (latent).
+
 
 ## Search #2
 **Keywords:** "smart power strip energy monitoring" <br>
