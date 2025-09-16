@@ -90,7 +90,7 @@ Description: This smart outdoor plug features six grounded outlets with overload
 ![HBN Outdoor Smart Plug image](bnb_outlet_s3.png) <br>
 **Figure 3** HBN Outdoor Smart Plug
 
-**Positive Comments**
+## Positive Comments
 
 | Voice of customer | Restated Customer Need |
 |-------------------|------------------------|
@@ -98,7 +98,7 @@ Description: This smart outdoor plug features six grounded outlets with overload
 |"Very pleased with this item. So pleased I bought a second one for the backyard. Easily put together. Very sturdy. Easily programmed. What I like most are the spring mechanisms on the plug covers and the cover on top where programming takes place.| 1. Product should be able to be assembled easily, if assembly is required (explicit). <br> 2. Weather resistant features should be sturdy and somewhat automatic, as in the spring covers (explicit).
 |"It comes with a heavy weight outdoor 6 foot power cord and a rugged yard stake for stable placement. A small remote control and the battery is Included - (nice touch). There are several different time modes from 2 to 8 hours on after dusk. It can also be set to run from dusk to dawn. It has a photocell sensor so that it will run the Christmas lights until after dusk."| 1. Power elements should be durable and far reaching (explicit). <br> 2. Controls besides wifi should be available for simple functions such as power on a timer and photocell sensing (explicit).   
 
-**Negative Comments**
+## Negative Comments
 
 | Voice of customer | Restated Customer Need |
 |-------------------|------------------------|
