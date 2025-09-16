@@ -48,7 +48,7 @@ Description: Smart surge protector with three independently controlled outlets a
 **Search result link**: https://www.amazon.com/s?k=smart+power+strip+energy+monitoring&crid=1HTJ1BNZKTC8E&sprefix=smart+power+strip+energy+monitoring%2Caps%2C379&ref=nb_sb_noss_1<br><br>
 **2. Selected Product**: [Emporia Energy Monitoring Smart Plug EMSO1-4](https://a.co/d/4s87wz8)
 
-![Emporia Smart Plug four pack image.](emporiasmartoutlet.jpg)<br>
+![Emporia Smart Plug four pack image.](image\emporiasmartoutlet.jpg)<br>
 **Figure 2** Emporia Smart Outlet
 
 
@@ -131,15 +131,15 @@ Description: Four USB ports and four power outlets that are WiFi enabled via a s
 ## Search #5
 **Keywords:** "remote controlled power strip"<br>
 **Search result link**: https://www.google.com/search?sca_esv=cdd4458fa27f824d&rlz=1C1GCPG_enUS1169US1169&udm=28&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZjSkgYzz5-5RrRWAIniWd7tzPwkE1KJWcRvaH01D-XIX002E0qNXsgfZ6fffiMQMigVxnU6tfQmfH9K5I6DpRZ0bZHP7J9wZhgZxLhz_VHUjP3FUfq8aIQ89-q-WX4tdwHbYSXtQ5Wzr0LQX3-uevbkvkHtjr2tuVBsQmiMlabeztv_zfWGzDInTmpt5ePpR0cLdBIA&q=remote+controlled+power+strip&ved=1t:220175&ictx=111&biw=1536&bih=774&dpr=1.25#oshopproduct=cid:10950339184001827565,oid:13861711271772027795,iid:3510986934337953009,rds:Q0lEXzEwOTUwMzM5MTg0MDAxODI3NTY1fFBST0RfQ0lEXzEwOTUwMzM5MTg0MDAxODI3NTY1,pvt:hg,pvo:19&oshop=apv&pvs=0 <br><br>
-**5. Selected Product**: [BN-LINK Outdoor Power Stake Timer Waterproof](https://www.walmart.com/ip/Green-1/8003650176?wmlspartner=wlpa&selectedSellerId=13250&selectedOfferId=6920D3DDAF543B709267ACBA02AD1C57&conditionGroupCode=1)
+**5. Selected Product**: [15-Amp Outdoor Plug-In Photocell Light Sensor 6-Outlet Yard Stake Timer](https://www.homedepot.com/p/Woods-15-Amp-Outdoor-Plug-In-Photocell-Light-Sensor-6-Outlet-Yard-Stake-Timer-with-6-ft-Cord-Green-13547WD/203638967)
 
-![BN-LINK Outdoor Power Stake Timer Waterproof.](image\abnlinkoutdoor.png)
+![Woods Light Sensor 6-Outlet.](image\woods.png)
 
-Price: $39.99
+Price: $15.35
 
-Vendor: Walmart
+Vendor: Home Depot
 
-Description: Waterproof outdoor power strip timer with multiple timing functions：Always on, always off, turn on at dusk - turn off at dawn, turn on at dusk/any time - turn off after 2/4/6/8 hours. This timer uses a light-sensitive photocell to operate, so headlights, porch lights, street lights, and other external light sources will not interfere with the activity timer program. This outdoor power stake comes with 6 power outlets (3 on each side) to run multiple devices at the same time according to your needs. The 6ft power extension cord allows for a larger installation range.
+Description: The Outdoor Grounded 6-Outlet Yard Stake with built in timer turns outdoor lights on and off at set times. The photoelectric eye senses the absence of daylight and automatically turns your lights on and then off after a set amount of hours, or off at dawn according to the schedule you manually set. The light sensor timer has 7 options that repeat daily, on at dusk off at dawn, on at dusk and off after 2, 4, 6, or 8 hours, always on, or always off.
 
 ## Positive Comments
 | Voice of customer | Restated Customer Need |
