@@ -20,7 +20,7 @@ tags:
 **Search result link**: https://www.amazon.com/s?k=home+automation&crid=28YP1ZDUDCWNI&sprefix=home+automation%2Caps%2C307<br><br>
 **1. Selected Product**: [Kasa Smart Plug Power Strip KP303](https://www.amazon.com/Kasa-Smart-Protector-Required-KP303/dp/B083JKSSR5?ie=UTF8)
 
-![Emporia Smart Plug four pack image.](image\kasasmartplug.jpg)<br>
+![Emporia Smart Plug four pack image.](kasasmartplug.jpg)<br>
 **Figure 1** Kasa Smart Protector
 
 Price: $30
@@ -48,7 +48,7 @@ Description: Smart surge protector with three independently controlled outlets a
 **Search result link**: https://www.amazon.com/s?k=smart+power+strip+energy+monitoring&crid=1HTJ1BNZKTC8E&sprefix=smart+power+strip+energy+monitoring%2Caps%2C379&ref=nb_sb_noss_1<br><br>
 **2. Selected Product**: [Emporia Energy Monitoring Smart Plug EMSO1-4](https://a.co/d/4s87wz8)
 
-![Emporia Smart Plug four pack image.](image\emporiasmartoutlet.jpg)<br>
+![Emporia Smart Plug four pack image.](emporiasmartoutlet.jpg)<br>
 **Figure 2** Emporia Smart Outlet
 
 
@@ -83,7 +83,7 @@ Price: $24.64 <br>
 Vendor: Amazon <br>
 Description: This smart outdoor plug features six grounded outlets with overload protection, a 6-foot extension cord, and a weather-resistant stake design for reliable use in rain, snow, and wind. Compatible with Alexa, Google Assistant, and the Smart Life/TUYA apps, it allows for convenient voice control, scheduling, and timer settings to easily manage holiday lights, garden décor, or other outdoor appliances. Simple to set up on a 2.4GHz Wi-Fi network, it offers hands-free control and collective power management, making it ideal for patios, backyards, landscaping, or seasonal decorations.
 
-![HBN Outdoor Smart Plug image](image\bnb_outlet_s3.png) <br>
+![HBN Outdoor Smart Plug image](bnb_outlet_s3.png) <br>
 **Figure 3** HBN Outdoor Smart Plug
 
 **Positive Comments**
@@ -106,7 +106,7 @@ Description: This smart outdoor plug features six grounded outlets with overload
 **Search result link**: https://www.google.com/search?q=energy+saving+smart+power+strip&rlz=1C1GCEA_enUS878US878&oq=energy+saving+smart+power&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMg0IBRAAGIYDGIAEGIoFMg0IBhAAGIYDGIAEGIoFMg0IBxAAGIYDGIAEGIoFMgoICBAAGIAEGKIE0gEJMTA0NTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#oshopproduct=gid:1373486050393941307,mid:576462771857904130,oid:11989638684473196982,iid:14029040634763611425,rds:UENfMTM3MzQ4NjA1MDM5Mzk0MTMwN3xQUk9EX1BDXzEzNzM0ODYwNTAzOTM5NDEzMDc%3D,pvt:hg,pvo:3,laoid:1&oshop=apv&pvs=0 <br><br>
 **4. Selected Product**: [Feit Electric Feit Smart 4 -Outlet 460 Joules 1875 -Watts White Indoor Various receptacles Surge Protector](https://www.lowes.com/pd/Feit-Electric-Feit-Smart-Surge-with-USB/5000875091?user=shopping&feed=yes&srsltid=AfmBOoq1J78UncASz3TyYHx9qXWjRuB4Pqgw6Zkq0Xy9Rtk2mK1S2-3YMks)
 
-![Feit electric power strip.](image\feitelectric.jpg)
+![Feit electric power strip.](feitelectric.jpg)
 
 Price: $49
 
@@ -133,7 +133,7 @@ Description: Four USB ports and four power outlets that are WiFi enabled via a s
 **Search result link**: https://www.google.com/search?sca_esv=cdd4458fa27f824d&rlz=1C1GCPG_enUS1169US1169&udm=28&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZjSkgYzz5-5RrRWAIniWd7tzPwkE1KJWcRvaH01D-XIX002E0qNXsgfZ6fffiMQMigVxnU6tfQmfH9K5I6DpRZ0bZHP7J9wZhgZxLhz_VHUjP3FUfq8aIQ89-q-WX4tdwHbYSXtQ5Wzr0LQX3-uevbkvkHtjr2tuVBsQmiMlabeztv_zfWGzDInTmpt5ePpR0cLdBIA&q=remote+controlled+power+strip&ved=1t:220175&ictx=111&biw=1536&bih=774&dpr=1.25#oshopproduct=cid:10950339184001827565,oid:13861711271772027795,iid:3510986934337953009,rds:Q0lEXzEwOTUwMzM5MTg0MDAxODI3NTY1fFBST0RfQ0lEXzEwOTUwMzM5MTg0MDAxODI3NTY1,pvt:hg,pvo:19&oshop=apv&pvs=0 <br><br>
 **5. Selected Product**: [15-Amp Outdoor Plug-In Photocell Light Sensor 6-Outlet Yard Stake Timer](https://www.homedepot.com/p/Woods-15-Amp-Outdoor-Plug-In-Photocell-Light-Sensor-6-Outlet-Yard-Stake-Timer-with-6-ft-Cord-Green-13547WD/203638967)
 
-![Woods Light Sensor 6-Outlet.](image\woods.png)
+![Woods Light Sensor 6-Outlet.](woods.png)
 
 Price: $15.35
 
@@ -157,74 +157,6 @@ Description: The Outdoor Grounded 6-Outlet Yard Stake with built in timer turns 
 
 
 
-![User Needs.](image\egr304_needs_stickynotes.jpg)
+![User Needs.](egr304_needs_stickynotes.jpg)
 
-![User Needs Categorized](image\egr304_needs_categories_justification.jpg)
-
-1. listum primo
-
-    discusso el codex:
-
-        if (pimProgressiveMashup(recursive_upnp_barcraft, seo) == file.station_leaf(
-                optical + 1, compact_docking)) {
-            rt_programming_system(udpScraping, marketRegularMetal,
-                    threadingNuiRoom);
-            vlogVaporwarePage += 5 + xhtmlDiskReader;
-            access.kbps_footer.dialogZettabyte(3, cloud_midi_spoofing, ipad_macro);
-        }
-        if (maskProcessorKbps(programming, user, cache_web) >= file *
-                publishingDual) {
-            hibernate.flash_network -= 4;
-            bar = goodput_flash;
-            streaming = voip_flatbed - 1;
-        } else {
-            clipCd(jquery, 55 - -1, touchscreen);
-            plagiarism_command_e = cleanHardIcio;
-            recursion = checksum;
-        }
-        clock(roomCaptcha, 2);
-
-2. listum secundum
-
-    > warningum alertum
-
-3. listum adnauseum
-
-## Pondus ante Ialysios vultu exasperat loqui sanguine
-
-Iacere non, quis nimbis. Dumque tibi minora clamabat contigit vacant, sepulcro
-coniugis quae; mihi! Solent adeste faventibus, perque penates, currere in quater
-Odrysius ferro, vota, vero mittat crinibus, quae. Hanc mundi, ipse vultu voce
-sub quae heros forsitan imagine in tecum Cephalus? Formosissimus vela; vapore
-oris, aera, utendum ostendisse regnum Centaurorum elice.
-
-    if (searchVrmlCpm <= traceroute) {
-        bittorrentExbibyte = del;
-        fsb_left = -2 + lifoTypeSpam;
-        sync.bcc(errorAtm(66, boot, link), meta_personal_hdd, leak.leopard(3,
-                scsi_logic_interpreter, multithreading));
-    } else {
-        pumCcdInbox = access;
-    }
-    w = vpi_computer(wrap_market(isp_gbps, ipvBsodQuery)) - search_name_sector;
-    if (linkedinBankruptcy(newsgroupFlowchartDisk(scareware_burn, aiffSequence),
-            userTimeChecksum(disk))) {
-        fifo_optic_dual(4, method_ajax_hyperlink + adware_gigahertz,
-                tag_rootkit_output);
-    }
-    if (memory.fsb(client_template, typeface_memory_bridge) < newbie_socket_gif(
-            storageModemDrive, kilohertz_yottabyte_middleware)) {
-        dimm.dvd_character.hover(hibernate);
-        exif = unmountVirusRss * 5;
-    } else {
-        localhost_adapter += character_olap_white;
-        subnet(internal_dongle + card);
-    }
-    var hibernateAlert = formatCmsCompression(1 / and_tcp + 5);
-
-Miserande evanida amanti, succiduo, dare mihi quid amnis venit Rhadamanthus.
-Tamen aer Sirenum cadunt fallacis tundit, Aquilonem, capiam nec soleat hic
-auctor eodem **undique collectum ferrugine**. Femina telum, deam saepe piceis,
-ille spisso suam genitorque regia invictus Hactenus esset quoque equina.
-Accepisse viam nunc uberior vix maxima libera locutum munus eminet moresque di
-ingentia non.
+![User Needs Categorized](egr304_needs_categories_justification.jpg)
