@@ -20,7 +20,7 @@ tags:
 **Search result link**: https://www.amazon.com/s?k=home+automation&crid=28YP1ZDUDCWNI&sprefix=home+automation%2Caps%2C307<br><br>
 **1. Selected Product**: [Kasa Smart Plug Power Strip KP303](https://www.amazon.com/Kasa-Smart-Protector-Required-KP303/dp/B083JKSSR5?ie=UTF8)
 
-![Emporia Smart Plug four pack image.](kasasmartplug.jpg)<br>
+![Kasa Smart Plug four pack image.](kasasmartplug.jpg)<br>
 **Figure 1** Kasa Smart Protector
 
 Price: $30
@@ -29,19 +29,23 @@ Vendor: Amazon
 
 Description: Smart surge protector with three independently controlled outlets and two USB ports. The surge protector comes with Alexa and Google assistant integration, and comes with app control compatible with iOS and Android devices and is ETL certified.
 
-**Negative Comments**
-| Voice of customer | Restated Customer Need |
-|-------------------|------------------------|
-|"...still wish it was cheaper I wish the cord was longer though and it was a flat head plug"                                                                                                                       | 1. Product should be affordable (explicit)<br>2. Plug shape should be convenient (explicit).|
-|"First time using something "smart", decently easy to set up. Had to trouble shoot a few times but I got it. The only issue i have is the USB ports dont apply to the wifi controls of the power strip."           | 1. "Smart" shouldn't mean confusing (latent)<br> 2. User shouldn't run into a whole lot of troubleshooting (latent).<br>3. All ports should be able to be individually controlled (explicit).
-|"Product works great…. However. It is some what deceiving that this 3 outlet plug does NOT have the same features as the 5 outlet (HS300 plug). I need to have energy monitoring (wattage). The 3 outlet plug just tells you the ‘run time’ measured in hours which doesn’t really do anything. Otherwise, this smaller surge protector is seamless and works as advertised. I just need to return it and buy the more expensive one to meet my needs. I wish they were more clear with the product description."|1. Advertising should be clear (explicit). <br> 2. Should show power usage not just "run time"(explicit). <br> 3. The device should be as feature rich as a more expensive or larger sized product (latent).
+## Negative Comments
 
-**Positive Comments**
+| Voice of Customer | Restated Customer Need |
+|-------------------|------------------------|
+| "...still wish it was cheaper I wish the cord was longer though and it was a flat head plug" | 1. Product should be affordable (explicit)<br>2. Plug shape should be convenient (explicit) | |
+| "First time using something 'smart', decently easy to set up. Had to trouble shoot a few times but I got it. The only issue I have is the USB ports don’t apply to the wifi controls of the power strip." | 1. "Smart" shouldn't mean confusing (latent)<br>2. User shouldn't run into a whole lot of troubleshooting (latent)<br>3. All ports should be able to be individually controlled (explicit) | |
+| "Product works great…. However. It is somewhat deceiving that this 3 outlet plug does NOT have the same features as the 5 outlet (HS300 plug). I need to have energy monitoring (wattage). The 3 outlet plug just tells you the ‘run time’ measured in hours which doesn’t really do anything. Otherwise, this smaller surge protector is seamless and works as advertised. I just need to return it and buy the more expensive one to meet my needs. I wish they were more clear with the product description." | 1. Advertising should be clear (explicit)<br>2. Should show power usage not just "run time" (explicit)<br>3. The device should be as feature rich as a more expensive or larger sized product (latent) | |
+
+
+## Positive Comments
+
 | Voice of customer | Restated Customer Need |
 |-------------------|------------------------|
-|"I got this because the app is user friendly, easy to set up & it was easy to connect to my Alexa and works well"                                        |1. Device interface should be user friendly (explicit)<br> 2. It should not be a headache to setup(explicit) <br> 3. Easy to connect(explicit).<br> 4. Product should interface well with existing smart home devices (latent).
-|"I recommend getting the strip versus the individual plugs because it's more economical and always better to have more outlets than less."               |1. Product should have as many plugs as is reasonable to include (explicit)<br> 2. One smart system should control as many plugs as possible (latent).
+|"I got this because the app is user friendly, easy to set up & it was easy to connect to my Alexa and works well"  | 1. Device interface should be user friendly (explicit)<br> 2. It should not be a headache to setup(explicit) <br> 3. Easy to connect(explicit).<br> 4. Product should interface well with existing smart home devices (latent).
+|"I recommend getting the strip versus the individual plugs because it's more economical and always better to have more outlets than less." |  1. Product should have as many plugs as is reasonable to include (explicit)<br> 2. One smart system should control as many plugs as possible (latent).
 |"I used it in an automated Halloween setup to control lighting of various scenes via a BAT script running on a PC via the Kasa Command Line interface..."|1. Product should allow manual control via a PC running a script and not rely on the smartphone app for automation (latent).
+
 
 ## Search #2
 **Keywords:** "smart power strip energy monitoring" <br>
@@ -86,19 +90,21 @@ Description: This smart outdoor plug features six grounded outlets with overload
 ![HBN Outdoor Smart Plug image](bnb_outlet_s3.png) <br>
 **Figure 3** HBN Outdoor Smart Plug
 
-**Positive Comments**
+## Positive Comments
+
 | Voice of customer | Restated Customer Need |
 |-------------------|------------------------|
-|"Nice outside waterproof wifi enabled extension cord outlets. You can put in the ground easily and has been reliable."                                                                                                                                                                                                                                                             |1. Product should be resistant to elements (explicit).<br> 2. Wifi connectivity (explicit).<br> 3. Easily anchored outside (explicit).<br> 4. Must be durable (explicit).                            
-|"Very pleased with this item. So pleased I bought a second one for the backyard. Easily put together. Very sturdy. Easily programmed. What I like most are the spring mechanisms on the plug covers and the cover on top where programming takes place."                                                                                                                           |1. Product should be able to be assembled easily, if assembly is required (explicit). <br> 2. Weather resistant features should be sturdy and somewhat automatic, as in the spring covers (explicit).
-|"It comes with a heavy weight outdoor 6 foot power cord and a rugged yard stake for stable placement. A small remote control and the battery is Included - (nice touch). There are several different time modes from 2 to 8 hours on after dusk. It can also be set to run from dusk to dawn. It has a photocell sensor so that it will run the Christmas lights until after dusk."|1. Power elements should be durable and far reaching (explicit). <br> 2. Controls besides wifi should be available for simple functions such as power on a timer and photocell sensing (explicit).   
+|"Nice outside waterproof wifi enabled extension cord outlets. You can put in the ground easily and has been reliable."| 1. Product should be resistant to elements (explicit).<br> 2. Wifi connectivity (explicit).<br> 3. Easily anchored outside (explicit).<br> 4. Must be durable (explicit).
+|"Very pleased with this item. So pleased I bought a second one for the backyard. Easily put together. Very sturdy. Easily programmed. What I like most are the spring mechanisms on the plug covers and the cover on top where programming takes place.| 1. Product should be able to be assembled easily, if assembly is required (explicit). <br> 2. Weather resistant features should be sturdy and somewhat automatic, as in the spring covers (explicit).
+|"It comes with a heavy weight outdoor 6 foot power cord and a rugged yard stake for stable placement. A small remote control and the battery is Included - (nice touch). There are several different time modes from 2 to 8 hours on after dusk. It can also be set to run from dusk to dawn. It has a photocell sensor so that it will run the Christmas lights until after dusk."| 1. Power elements should be durable and far reaching (explicit). <br> 2. Controls besides wifi should be available for simple functions such as power on a timer and photocell sensing (explicit).   
 
-**Negative Comments**
+## Negative Comments
+
 | Voice of customer | Restated Customer Need |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|"Getting it setup was a bit of a challenge as the included instructions were worthless."     |1. Setup should not be challenging (explicit). <br> 2. Product should not rely on a set of instructions (latent).                                                                                                                                             
-|"Even when full on dark, you have to wait another 25 to 30 minutes before your lights come on."                                                                                                                                                                                                                                                       |1. Sensors should be accurate enough to sense when the desired conditions are met to power on and off (explicit).<br> 2. User should be able to edit desired conditions at which elements power on or off, whether it be lighting, temperature, etc. (latent).
-|"As long as the covers are all closed, I suppose it is waterproof. Of course, if you open one of the covers to plug something into it, now that plug is no longer covered and is no longer protected from the elements. The other issue I have is that the outlets are not controllable separately It's either everything is on or everything is off."|1. If product is to be weather resistant then it should be resistant in all stages of usage (explicit). <br> 2. The product should offer more customizability than a binary on and off for all outlets (explicit). 
+|-------------------|------------------------|
+|"Getting it setup was a bit of a challenge as the included instructions were worthless." | 1. Setup should not be challenging (explicit). <br> 2. Product should not rely on a set of instructions (latent).                                                                                                                                             
+|"Even when full on dark, you have to wait another 25 to 30 minutes before your lights come on." | 1. Sensors should be accurate enough to sense when the desired conditions are met to power on and off (explicit).<br> 2. User should be able to edit desired conditions at which elements power on or off, whether it be lighting, temperature, etc. (latent).
+|"As long as the covers are all closed, I suppose it is waterproof. Of course, if you open one of the covers to plug something into it, now that plug is no longer covered and is no longer protected from the elements. The other issue I have is that the outlets are not controllable separately It's either everything is on or everything is off."| 1. If product is to be weather resistant then it should be resistant in all stages of usage (explicit). <br> 2. The product should offer more customizability than a binary on and off for all outlets (explicit). 
 
 
 ## Search #4
