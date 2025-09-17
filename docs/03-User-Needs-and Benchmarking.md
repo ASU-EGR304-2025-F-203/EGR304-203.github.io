@@ -77,7 +77,7 @@ Description: App controlled smart outlet with enertgy monitoring. 2.4GHz and 5GH
 
 ## Search #3
 **Keywords:** "smart plug power strip programmable" <br>
-**Search result link**: https://www.amazon.com/s?k=smart+plug+power+strip+programmable&crid=4ZAZMKROGOZ6&sprefix=smart+plug+power+strip+programmable%2Caps%2C389 <br><br>
+**Search result link**: https://www.amazon.com/s?k=smart+plug+power+strip+programmable&crid=4ZAZMKROGOZ6&sprefix=smart+plug+power+strip+programmable%2Caps%2C389 <br>
 **3 Selected Product**: [HBN Outdoor Smart Plug](https://www.amazon.com/HBN-Outdoor-Waterproof-Compatible-Assistant/dp/B0C65K1S8V?crid=4ZAZMKROGOZ6&dib=eyJ2IjoiMSJ9.bueRwh-e_4xF94EssdD04F5lZGyeykhWeEtDije3gqPGjHj071QN20LucGBJIEps.6xwVN6Npg1i8Kg0wqsf-YVJ1MgLRNIQCJcRUpMtr2tM&dib_tag=se&keywords=smart%2Bplug%2Bpower%2Bstrip%2Bprogrammable&qid=1757876364&sprefix=smart%2Bplug%2Bpower%2Bstrip%2Bprogrammable%2Caps%2C389&sr=8-19&xpid=IiIRdXITkfjd4&th=1) <br>
 Price: $24.64 <br>
 Vendor: Amazon <br>
