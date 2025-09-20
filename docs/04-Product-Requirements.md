@@ -31,16 +31,41 @@ On weekends, Ayush enjoys experimenting with tech projects, so the extra flexibi
 
 ## Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+Our product design will be based on current market offerings for smart surge protectors, with improvements that adhere to the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high priority.
 
-1. **Producr Design**
-   * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-   * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
+1. **Hardware / Product Design**
+      * 1.1 Product should be compact, light, and easily portable to allow our customers to easily relocate it as needed.
+      * 1.1. Product should be easy to stow away without messing with long wires.
+      * 1.2. Product needs to be sturdy, in order to withstand impacts and the being dropped ocasionally.
+      * 1.2. Product needs to be weather resitant to protect the delicate internal electronics from changes in temperature, water intrussion, and constant UV light exposure.
+      * 1.3. Product should have mounting holes on its base to allow multiple mounting options.
+      * 1.4. Product should provide a combination of power outlets such as NEMA 5-15 and USB A outlets to power various appliances.
+      * 1.4. Outlets should be generously spaced to allow multiple configurations of power connectors and device power cables.    
+      * 1.5. Plug should be low profile and angled to fit behind furniture.
   
-1. **Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+1. **Software / Functionality**
+      * 2.1 The fucntionality of the product must not rely on an app for control, and should have multiple avenues for control.
+      * 2.1. The control should be redundant and operation of the device should automatically resume on the last known good setting in case of a power outage or spike.
+      * 2.2. The setup and configuration should be eassily setup in under 5 minutes.
+      * 2.2. Instruction manual should be clear and detailed.   
+      * 2.3. Product should allow user to manually program it from the device without the need explicit of an external source, such as a mobile app.
+      * 2.4. Multiple devices might be grouped together in order to control them simultaneously. 
+
+1. **Interactivity & User Experience**
+      * 3.1. Product should educate the user about their power consumption.
+      * 3.2. Displayed data should be visually represented and easy to read.  
+      * 3.3. User should be able to individually control each outlet of the product.
+      * 3.4. Product should have voice assistant integration for esy control.
+      * 3.5. Product should have easily communicate to the customer which outlets are on or off without an app.
+
+1. **Customization**
+
+
+1. **Manufacturing**
+
+
+1. **Safety**
+
 
 ## Requirement Criteria Specifications
 
