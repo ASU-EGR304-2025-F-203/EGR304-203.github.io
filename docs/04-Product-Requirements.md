@@ -20,10 +20,15 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Use Cases
 
-**User Story #1: Jenna**
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+**User Story #1: peter**
+Peter is a 42 -year-old homeowner who enjoys seetting up his backyard for family gatherings and seasonal decorations.He recently purchased the HBN Outdoor smart plug to manage his string lights and small fountain. The installation was straightfoward, the rugged stick pushed firmily into the ground,and the weather resistant spring covers gave him confidence that the outlets would stay safe from the rain and dust. with Wifi connectivity, Peter quickly programmed schedules from his phone so the lights automatically turned on at dusk.
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+Over time, Peter noticed how well the product matched his expectations. The heavy six-foot cord allowed him to reach power comfortably, and the photocell sensor made sure his Christmas lights stayed on after dusk without extra effort. He even enjoyed the small touch of the included remote, which let him control the outlets when his phone wasn’t nearby.
+
+**User Story #2: Ayush**
+Ayush recently upgraded his home office setup with the Kasa Smart Plug Power Strip KP303. He works remotely and wanted something easy to manage multiple devices without clutter. The simple app setup impressed him, it connected quickly to his Alexa, and within minutes, he could control his desk lamp, monitor and coffee machine with his voice. He found the interface intuitive and reliable, matching what others had said in their reviews. For Ayush, not having to juggle multiple individual plugs was a relief,  one strip that could handle all his essentials felt both practical and cost-effective.
+
+On weekends, Ayush enjoys experimenting with tech projects, so the extra flexibility came in handy. Inspired by a review, he used the power strip in his Halloween setup, running lights and sound effects triggered from his PC with a simple script. The surge protection gave him peace of mind while powering multiple gadgets, and the individual control over outlets meant he could turn off just the devices he didn’t need.
 
 ## Aspects
 
