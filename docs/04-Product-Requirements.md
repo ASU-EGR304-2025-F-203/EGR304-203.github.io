@@ -42,7 +42,7 @@ Our product design will be based on current market offerings for smart surge pro
 * 1.4. Outlets should be generously spaced to allow multiple configurations of power connectors and device power cables.    
 * 1.5. Plug should be low profile and angled to fit behind furniture.
   
-1. **Software / Functionality**
+2. **Software / Functionality**
 * 2.1 The fucntionality of the product must not rely on an app for control, and should have multiple avenues for control.
 * 2.1. The control should be redundant and operation of the device should automatically resume on the last known good setting in case of a power outage or spike.
 * 2.2. The setup and configuration should be eassily setup in under 5 minutes.
@@ -50,7 +50,7 @@ Our product design will be based on current market offerings for smart surge pro
 * 2.3. Product should allow user to manually program it from the device without the need explicit of an external source, such as a mobile app.
 * 2.4. Multiple devices might be grouped together in order to control them simultaneously. 
 
-1. **Interactivity & User Experience**
+3. **Interactivity & User Experience**
 * 3.1. Product should educate the user about their power consumption.
 * 3.2. Displayed data should be visually represented and easy to read.  
 * 3.3. User should be able to individually control each outlet of the product.
@@ -75,12 +75,8 @@ Our product design will be based on current market offerings for smart surge pro
 * 6.5 Product dissipates heat so it does not become a fire hazard with high current usage.
 
 ## Requirement Criteria Specifications
-* 4.1.1 Device supports three control interfaces: physical buttons with a screen to display information, mobile app, and web interface.
-* 4.1.2 Device has a port for reprogramming.
-* 4.1.3 Source code is accessible for reprogramming.
-* 4.2.1 Power settings for each plug and USB-port can be specified with the control interface.
-* 4.2.2 Device provides real time feedback for desired output and delivers within +-5% of what was specified.
 
+1. **Hardware / Product Design Requirements**
 * 1.1.1 Device should weith three pounds or less.
 * 1.1.2 Device should be compact enough to carry it with one hand.
 * 1.2.1 Device must be IP-65 or IP-66 rated.
@@ -88,16 +84,27 @@ Our product design will be based on current market offerings for smart surge pro
 * 1.3.1 Device should have spaced out holes for wall mounting and desk mounting.
 * 1.4.1 Device outlets must be generously spaced to allow multiple power connector configurations.
 * 1.5.1 Device plug must be angled at 90 degrees and be as thin as possible.
+2. **Software / Functionality Requirements**
 * 2.1.1 Device must have redundancy in case of one of the control methods failing. This would allow the devivice to continue working in case of failure.
 * 2.2.1 Device should be configurable and operable in less than 5 minutes.
 * 2.3.1 Device must allow for manual physical control and programming.
 * 2.4.1 Device should allow for control grouping with additional surge protector products of its kind. 
+3. **Interactivity & User Experience Requirements**
 * 3.1.1 Device should provide information to the user about their power consumption.
 * 3.2.1 Device must display data visually to the customer.
 * 3.3.1 Device outlets should be individually controller by the user.
 * 3.4.1 Device must have voice control integration with a common use assistant such as Google Assistant, Amazon Alexa, Microsoft Cortana, and Siri.
 * 3.5.1 Device must have LED indicators to show which outlets are on and which are off.
+4. **Customization Requirements**
+* 4.1.1 Device supports three control interfaces: physical buttons with a screen to display information, mobile app, and web interface.
+* 4.1.2 Device has a port for reprogramming.
+* 4.1.3 Source code is accessible for reprogramming.
+* 4.2.1 Power settings for each plug and USB-port can be specified with the control interface.
+* 4.2.2 Device provides real time feedback for desired output and delivers within +-5% of what was specified.
+5. **Manufacturing Requirements**
 
+
+6. **Safety Requirements**
 ## Open Questions
 * Can we manufacture this product for under $100?
 * Can we find a safe way to merge high amperage needs with low?
