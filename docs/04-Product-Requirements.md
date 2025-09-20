@@ -11,12 +11,11 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Stakeholders
 
-- **Target group** High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.
-- **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-- **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
-- **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
-- **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
-
+- **Target group** Upper middle class people of 18 years and above. It would be people money conscious people who are looking to learn more about their enegy consumption habits and lower their electricity costs. It is ideally for both tech savy or a non-technical person 
+- **Target purchaser** The target group would be homeowners, landlords, renters, and office workers.
+- **Customer service** Simple to troubleshoot remotely, and components should be modular and easy to replace. Maintenance and service will be simple to perform by anyone with basic hand tools.
+- **Marketing & Sales division** Will look place this product higher than a normal surge protector. They will look at existing market offerings and show off our unique and superior features such as real time energy monitoring, dependable connectivity, superior weather resitance and durability.
+- **Retailers** Expect the product to be durable enough to be placed in longer term storage in various temperature and humidity conditions. Packaging should be drop safe and impact resistant.
 
 ## Use Cases
 
@@ -26,7 +25,7 @@ Peter is a 42 -year-old homeowner who enjoys seetting up his backyard for family
 Over time, Peter noticed how well the product matched his expectations. The heavy six-foot cord allowed him to reach power comfortably, and the photocell sensor made sure his Christmas lights stayed on after dusk without extra effort. He even enjoyed the small touch of the included remote, which let him control the outlets when his phone wasn’t nearby.
 
 **User Story #2: Ayush**
-Ayush is a 21 years old student and he recently upgraded his home office setup with the Kasa Smart Plug Power Strip KP303. He works remotely and wanted something easy to manage multiple devices without clutter. The simple app setup impressed him, it connected quickly to his Alexa, and within minutes, he could control his desk lamp, monitor and coffee machine with his voice. He found the interface intuitive and reliable, matching what others had said in their reviews. For Ayush, not having to juggle multiple individual plugs was a relief,  one strip that could handle all his essentials felt both practical and cost-effective.
+Ayush is a 21 year old student, he recently upgraded his home office setup with the Kasa Smart Plug Power Strip KP303. He works remotely and wanted something easy to manage multiple devices without clutter. The simple app setup impressed him, it connected quickly to his Alexa, and within minutes, he could control his desk lamp, monitor and coffee machine with his voice. He found the interface intuitive and reliable, matching what others had said in their reviews. For Ayush, not having to juggle multiple individual plugs was a relief,  one strip that could handle all his essentials felt both practical and cost-effective.
 
 On weekends, Ayush enjoys experimenting with tech projects, so the extra flexibility came in handy. Inspired by a review, he used the power strip in his Halloween setup, running lights and sound effects triggered from his PC with a simple script. The surge protection gave him peace of mind while powering multiple gadgets, and the individual control over outlets meant he could turn off just the devices he didn’t need.
 
