@@ -70,7 +70,7 @@ Our product design will be based on current market offerings for smart surge pro
 6. **Safety**
 * 6.1 Product shall protect against overcurrent.
 * 6.2 Product shall protect against short circuits.
-* 6.3 Product shall filter the current to prevent spikes that may damage.
+* 6.3 Product shall filter the current to prevent spikes that may damage electrical components.
 * 6.4 Product automatically limits current to what each port can deliver. 
 * 6.5 Product dissipates heat so it does not become a fire hazard with high current usage.
 
@@ -84,27 +84,46 @@ Our product design will be based on current market offerings for smart surge pro
 * 1.3.1 Device should have spaced out holes for wall mounting and desk mounting.
 * 1.4.1 Device outlets must be generously spaced to allow multiple power connector configurations.
 * 1.5.1 Device plug must be angled at 90 degrees and be as thin as possible.
+
 2. **Software / Functionality Requirements**
 * 2.1.1 Device must have redundancy in case of one of the control methods failing. This would allow the devivice to continue working in case of failure.
 * 2.2.1 Device should be configurable and operable in less than 5 minutes.
 * 2.3.1 Device must allow for manual physical control and programming.
 * 2.4.1 Device should allow for control grouping with additional surge protector products of its kind. 
+
 3. **Interactivity & User Experience Requirements**
 * 3.1.1 Device should provide information to the user about their power consumption.
 * 3.2.1 Device must display data visually to the customer.
 * 3.3.1 Device outlets should be individually controller by the user.
 * 3.4.1 Device must have voice control integration with a common use assistant such as Google Assistant, Amazon Alexa, Microsoft Cortana, and Siri.
 * 3.5.1 Device must have LED indicators to show which outlets are on and which are off.
+
 4. **Customization Requirements**
 * 4.1.1 Device supports three control interfaces: physical buttons with a screen to display information, mobile app, and web interface.
 * 4.1.2 Device has a port for reprogramming.
 * 4.1.3 Source code is accessible for reprogramming.
 * 4.2.1 Power settings for each plug and USB-port can be specified with the control interface.
 * 4.2.2 Device provides real time feedback for desired output and delivers within +-5% of what was specified.
-5. **Manufacturing Requirements**
+* 4.3.1 Ports are mounted on interchangable modules with standardized connectors.
+* 4.3.2 User can rearrange or swap out port types to design their own array of power sources.
 
+5. **Manufacturing Requirements**
+* 5.1.1 Material besides internal PCB and Curiosity Nano controllers is sourced from at least two different materials in case of unavailability.
+* 5.1.2 There are at least two ways to manufacture the outer shell of the assembly, e.g. 3D printing or injection molding.
+* 5.1.3 Assembly time is under 30 minutes using basic hand tools.
+* 5.2.1 Enclosure meets IP65 rating for dust and water resistance while components are plugged in.
+* 5.2.2 Enclosure must pass 10 simulated outdoor durability tests, including being sprayed with water, shaken around in a container of dust, and a drop from shoulder height while components are plugged in (specific moisture level and particulate level to pass TBD). 
+* 5.3.1 Outer shell assembly is made from biodegradable or recyclable plastic.
+* 5.4 PIC Curiosity Nanos are mounted on headers allowing removal/replacement in under 2 minutes without soldering.
 
 6. **Safety Requirements**
+* 6.1.1 Device includes automatic shutoff when current exceeds rated current(TBD); recovery requires manual reset.
+* 6.2.1 IEC 62368-1 compliant.
+* 6.3.1 Includes EMI filters and transient voltage suppressors that reduce spikes to below 5% of rated current (TBD), verified via oscilloscope.
+* 6.5.1 Product operates between 32 - 122 degrees F
+* 6.5.2 Product does not exceed 122 degrees F during intended use.
+* 6.5.3 On board temperature sensor automatically shuts off device if temperature exceeds 122 F.
+
 ## Open Questions
 * Can we manufacture this product for under $100?
 * Can we find a safe way to merge high amperage needs with low?
