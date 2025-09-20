@@ -32,7 +32,7 @@ On weekends, Ayush enjoys experimenting with tech projects, so the extra flexibi
 
 Our product design will be based on current market offerings for smart surge protectors, with improvements that adhere to the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high priority.
 
-1. **Hardware / Product Design**
+1. **Hardware / Product Design**<br>
 * 1.1 Product should be compact, light, and easily portable to allow our customers to easily relocate it as needed.
 * 1.1. Product should be easy to stow away without messing with long wires.
 * 1.2. Product needs to be sturdy, in order to withstand impacts and the being dropped ocasionally.
@@ -42,7 +42,7 @@ Our product design will be based on current market offerings for smart surge pro
 * 1.4. Outlets should be generously spaced to allow multiple configurations of power connectors and device power cables.    
 * 1.5. Plug should be low profile and angled to fit behind furniture.
   
-2. **Software / Functionality**
+2. **Software / Functionality**<br>
 * 2.1 The fucntionality of the product must not rely on an app for control, and should have multiple avenues for control.
 * 2.1. The control should be redundant and operation of the device should automatically resume on the last known good setting in case of a power outage or spike.
 * 2.2. The setup and configuration should be eassily setup in under 5 minutes.
@@ -50,24 +50,24 @@ Our product design will be based on current market offerings for smart surge pro
 * 2.3. Product should allow user to manually program it from the device without the need explicit of an external source, such as a mobile app.
 * 2.4. Multiple devices might be grouped together in order to control them simultaneously. 
 
-3. **Interactivity & User Experience**
+3. **Interactivity & User Experience**<br>
 * 3.1. Product should educate the user about their power consumption.
 * 3.2. Displayed data should be visually represented and easy to read.  
 * 3.3. User should be able to individually control each outlet of the product.
 * 3.4. Product should have voice assistant integration for esy control.
 * 3.5. Product should have easily communicate to the customer which outlets are on or off without an app.
 
-4. **Customization**
+4. **Customization**<br>
 * 4.1 The product shall allow the user to use multiple control methods and be able to program the device by editing the code we develop to run customized routines.
 * 4.2 The product shall allow the user to customize power output from each plug and USB port.
 * 4.3 The design is to be modular with the user customizing the location and type of each port.
 
-5. **Manufacturing**
+5. **Manufacturing**<br>
 * 5.1 The product shall be easy to manufacture.
 * 5.2 The product exterior should be manufactured with materials resistant to elements and use weather resistant mechanical components such as switches and plug covers.
 * 5.3 The PIC Curiosity Nano microcontrollers used in the design shall be easily removable from the device for use in other projects.
 
-6. **Safety**
+6. **Safety**<br>
 * 6.1 Product shall protect against overcurrent.
 * 6.2 Product shall protect against short circuits.
 * 6.3 Product shall filter the current to prevent spikes that may damage electrical components.
@@ -76,7 +76,7 @@ Our product design will be based on current market offerings for smart surge pro
 
 ## Requirement Criteria Specifications
 
-1. **Hardware / Product Design Requirements**
+1. **Hardware / Product Design Requirements**<br>
 * 1.1.1 Device should weith three pounds or less.
 * 1.1.2 Device should be compact enough to carry it with one hand.
 * 1.2.1 Device must be IP-65 or IP-66 rated.
@@ -85,20 +85,20 @@ Our product design will be based on current market offerings for smart surge pro
 * 1.4.1 Device outlets must be generously spaced to allow multiple power connector configurations.
 * 1.5.1 Device plug must be angled at 90 degrees and be as thin as possible.
 
-2. **Software / Functionality Requirements**
+2. **Software / Functionality Requirements**<br>
 * 2.1.1 Device must have redundancy in case of one of the control methods failing. This would allow the devivice to continue working in case of failure.
 * 2.2.1 Device should be configurable and operable in less than 5 minutes.
 * 2.3.1 Device must allow for manual physical control and programming.
 * 2.4.1 Device should allow for control grouping with additional surge protector products of its kind. 
 
-3. **Interactivity & User Experience Requirements**
+3. **Interactivity & User Experience Requirements**<br>
 * 3.1.1 Device should provide information to the user about their power consumption.
 * 3.2.1 Device must display data visually to the customer.
 * 3.3.1 Device outlets should be individually controller by the user.
 * 3.4.1 Device must have voice control integration with a common use assistant such as Google Assistant, Amazon Alexa, Microsoft Cortana, and Siri.
 * 3.5.1 Device must have LED indicators to show which outlets are on and which are off.
 
-4. **Customization Requirements**
+4. **Customization Requirements**<br>
 * 4.1.1 Device supports three control interfaces: physical buttons with a screen to display information, mobile app, and web interface.
 * 4.1.2 Device has a port for reprogramming.
 * 4.1.3 Source code is accessible for reprogramming.
@@ -107,7 +107,7 @@ Our product design will be based on current market offerings for smart surge pro
 * 4.3.1 Ports are mounted on interchangable modules with standardized connectors.
 * 4.3.2 User can rearrange or swap out port types to design their own array of power sources.
 
-5. **Manufacturing Requirements**
+5. **Manufacturing Requirements**<br>
 * 5.1.1 Material besides internal PCB and Curiosity Nano controllers is sourced from at least two different materials in case of unavailability.
 * 5.1.2 There are at least two ways to manufacture the outer shell of the assembly, e.g. 3D printing or injection molding.
 * 5.1.3 Assembly time is under 30 minutes using basic hand tools.
@@ -116,7 +116,7 @@ Our product design will be based on current market offerings for smart surge pro
 * 5.3.1 Outer shell assembly is made from biodegradable or recyclable plastic.
 * 5.4 PIC Curiosity Nanos are mounted on headers allowing removal/replacement in under 2 minutes without soldering.
 
-6. **Safety Requirements**
+6. **Safety Requirements**<br>
 * 6.1.1 Device includes automatic shutoff when current exceeds rated current(TBD); recovery requires manual reset.
 * 6.2.1 IEC 62368-1 compliant.
 * 6.3.1 Includes EMI filters and transient voltage suppressors that reduce spikes to below 5% of rated current (TBD), verified via oscilloscope.
