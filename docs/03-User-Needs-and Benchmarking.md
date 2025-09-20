@@ -50,7 +50,7 @@ Description: Smart surge protector with three independently controlled outlets a
 ## Search #2
 **Keywords:** "smart power strip energy monitoring" <br>
 **Search result link**: https://www.amazon.com/s?k=smart+power+strip+energy+monitoring&crid=1HTJ1BNZKTC8E&sprefix=smart+power+strip+energy+monitoring%2Caps%2C379&ref=nb_sb_noss_1<br><br>
-**2. Selected Product**: [Emporia Energy Monitoring Smart Plug EMSO1-4](https://a.co/d/4s87wz8)
+**Selected Product**: [Emporia Energy Monitoring Smart Plug EMSO1-4](https://a.co/d/4s87wz8)
 
 ![Emporia Smart Plug four pack image.](emporiasmartoutlet.jpg)<br>
 **Figure 2** Emporia Smart Outlet
@@ -82,7 +82,7 @@ Description: App controlled smart outlet with enertgy monitoring. 2.4GHz and 5GH
 ## Search #3
 **Keywords:** "smart plug power strip programmable" <br>
 **Search result link**: https://www.amazon.com/s?k=smart+plug+power+strip+programmable&crid=4ZAZMKROGOZ6&sprefix=smart+plug+power+strip+programmable%2Caps%2C389 <br>
-**3 Selected Product**: [HBN Outdoor Smart Plug](https://www.amazon.com/HBN-Outdoor-Waterproof-Compatible-Assistant/dp/B0C65K1S8V?crid=4ZAZMKROGOZ6&dib=eyJ2IjoiMSJ9.bueRwh-e_4xF94EssdD04F5lZGyeykhWeEtDije3gqPGjHj071QN20LucGBJIEps.6xwVN6Npg1i8Kg0wqsf-YVJ1MgLRNIQCJcRUpMtr2tM&dib_tag=se&keywords=smart%2Bplug%2Bpower%2Bstrip%2Bprogrammable&qid=1757876364&sprefix=smart%2Bplug%2Bpower%2Bstrip%2Bprogrammable%2Caps%2C389&sr=8-19&xpid=IiIRdXITkfjd4&th=1) <br>
+**Selected Product**: [HBN Outdoor Smart Plug](https://www.amazon.com/HBN-Outdoor-Waterproof-Compatible-Assistant/dp/B0C65K1S8V?crid=4ZAZMKROGOZ6&dib=eyJ2IjoiMSJ9.bueRwh-e_4xF94EssdD04F5lZGyeykhWeEtDije3gqPGjHj071QN20LucGBJIEps.6xwVN6Npg1i8Kg0wqsf-YVJ1MgLRNIQCJcRUpMtr2tM&dib_tag=se&keywords=smart%2Bplug%2Bpower%2Bstrip%2Bprogrammable&qid=1757876364&sprefix=smart%2Bplug%2Bpower%2Bstrip%2Bprogrammable%2Caps%2C389&sr=8-19&xpid=IiIRdXITkfjd4&th=1) <br>
 Price: $24.64 <br>
 Vendor: Amazon <br>
 Description: This smart outdoor plug features six grounded outlets with overload protection, a 6-foot extension cord, and a weather-resistant stake design for reliable use in rain, snow, and wind. Compatible with Alexa, Google Assistant, and the Smart Life/TUYA apps, it allows for convenient voice control, scheduling, and timer settings to easily manage holiday lights, garden décor, or other outdoor appliances. Simple to set up on a 2.4GHz Wi-Fi network, it offers hands-free control and collective power management, making it ideal for patios, backyards, landscaping, or seasonal decorations.
@@ -110,7 +110,7 @@ Description: This smart outdoor plug features six grounded outlets with overload
 ## Search #4
 **Keywords:** "energy saving smart"<br>
 **Search result link**: https://www.google.com/search?q=energy+saving+smart+power+strip&rlz=1C1GCEA_enUS878US878&oq=energy+saving+smart+power&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMg0IBRAAGIYDGIAEGIoFMg0IBhAAGIYDGIAEGIoFMg0IBxAAGIYDGIAEGIoFMgoICBAAGIAEGKIE0gEJMTA0NTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#oshopproduct=gid:1373486050393941307,mid:576462771857904130,oid:11989638684473196982,iid:14029040634763611425,rds:UENfMTM3MzQ4NjA1MDM5Mzk0MTMwN3xQUk9EX1BDXzEzNzM0ODYwNTAzOTM5NDEzMDc%3D,pvt:hg,pvo:3,laoid:1&oshop=apv&pvs=0 <br><br>
-**4. Selected Product**: [Feit Electric Feit Smart 4 -Outlet 460 Joules 1875 -Watts White Indoor Various receptacles Surge Protector](https://www.lowes.com/pd/Feit-Electric-Feit-Smart-Surge-with-USB/5000875091?user=shopping&feed=yes&srsltid=AfmBOoq1J78UncASz3TyYHx9qXWjRuB4Pqgw6Zkq0Xy9Rtk2mK1S2-3YMks)
+**Selected Product**: [Feit Electric Feit Smart 4 -Outlet 460 Joules 1875 -Watts White Indoor Various receptacles Surge Protector](https://www.lowes.com/pd/Feit-Electric-Feit-Smart-Surge-with-USB/5000875091?user=shopping&feed=yes&srsltid=AfmBOoq1J78UncASz3TyYHx9qXWjRuB4Pqgw6Zkq0Xy9Rtk2mK1S2-3YMks)
 
 ![Feit electric power strip.](feitelectric.jpg)
 
@@ -137,7 +137,7 @@ Description: Four USB ports and four power outlets that are WiFi enabled via a s
 ## Search #5
 **Keywords:** "remote controlled power strip"<br>
 **Search result link**: https://www.google.com/search?sca_esv=cdd4458fa27f824d&rlz=1C1GCPG_enUS1169US1169&udm=28&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZjSkgYzz5-5RrRWAIniWd7tzPwkE1KJWcRvaH01D-XIX002E0qNXsgfZ6fffiMQMigVxnU6tfQmfH9K5I6DpRZ0bZHP7J9wZhgZxLhz_VHUjP3FUfq8aIQ89-q-WX4tdwHbYSXtQ5Wzr0LQX3-uevbkvkHtjr2tuVBsQmiMlabeztv_zfWGzDInTmpt5ePpR0cLdBIA&q=remote+controlled+power+strip&ved=1t:220175&ictx=111&biw=1536&bih=774&dpr=1.25#oshopproduct=cid:10950339184001827565,oid:13861711271772027795,iid:3510986934337953009,rds:Q0lEXzEwOTUwMzM5MTg0MDAxODI3NTY1fFBST0RfQ0lEXzEwOTUwMzM5MTg0MDAxODI3NTY1,pvt:hg,pvo:19&oshop=apv&pvs=0 <br><br>
-**5. Selected Product**: [15-Amp Outdoor Plug-In Photocell Light Sensor 6-Outlet Yard Stake Timer](https://www.homedepot.com/p/Woods-15-Amp-Outdoor-Plug-In-Photocell-Light-Sensor-6-Outlet-Yard-Stake-Timer-with-6-ft-Cord-Green-13547WD/203638967)
+**Selected Product**: [15-Amp Outdoor Plug-In Photocell Light Sensor 6-Outlet Yard Stake Timer](https://www.homedepot.com/p/Woods-15-Amp-Outdoor-Plug-In-Photocell-Light-Sensor-6-Outlet-Yard-Stake-Timer-with-6-ft-Cord-Green-13547WD/203638967)
 
 ![Woods Light Sensor 6-Outlet.](woods.png)
 
