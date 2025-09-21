@@ -30,7 +30,7 @@ On weekends, Ayush enjoys experimenting with tech projects, so the extra flexibi
 
 ## Aspects
 
-Our product design will be based on current market offerings for smart surge protectors, with improvements that adhere to the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high priority.
+Our product design will be based on current market offerings for smart surge protectors, with improvements that adhere to the following aspects.
 
 **Hardware / Product Design**<br>
 * 1.1 Product should be compact, light, and easily portable to allow our customers to easily relocate it as needed.<br>
@@ -66,6 +66,7 @@ Our product design will be based on current market offerings for smart surge pro
 * 5.1 The product shall be easy to manufacture.<br>
 * 5.2 The product exterior should be manufactured with materials resistant to elements and use weather resistant mechanical components such as switches and plug covers.<br>
 * 5.3 The PIC Curiosity Nano microcontrollers used in the design shall be easily removable from the device for use in other projects.<br>
+* 5.4 Product is manufactured of recylcled materials for lower enviromental impact during manufacturing.<br>
 
 **Safety**<br>
 * 6.1 Product shall protect against overcurrent.<br>
@@ -75,54 +76,56 @@ Our product design will be based on current market offerings for smart surge pro
 * 6.5 Product dissipates heat so it does not become a fire hazard with high current usage.<br>
 
 ## Requirement Criteria Specifications
+Our product should henceforth meet the below requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high priority.
 
 **Hardware / Product Design Requirements**<br>
-* 1.1.1 Device should weith three pounds or less.<br>
-* 1.1.2 Device should be compact enough to carry it with one hand.<br>
-* 1.2.1 Device must be IP-65 or IP-66 rated.<br>
-* 1.2.2 Device should withstand being dropped from shoulder height multiple times.<br>
-* 1.3.1 Device should have spaced out holes for wall mounting and desk mounting.<br>
-* 1.4.1 Device outlets must be generously spaced to allow multiple power connector configurations.<br>
-* 1.5.1 Device plug must be angled at 90 degrees and be as thin as possible.<br>
+* 1.1.1 Device should weith three pounds or less(P7).<br>
+* 1.1.2 Device should be compact enough to carry it with one hand(P7).<br>
+* 1.2.1 Device must be IP-65 or IP-66 rated(P2).<br>
+* 1.2.2 Device should withstand being dropped from shoulder height multiple times(P5).<br>
+* 1.3.1 Device should have spaced out holes for wall mounting and desk mounting(P7).<br>
+* 1.4.1 Device outlets must be generously spaced to allow multiple power connector configurations(P4).<br>
+* 1.5.1 Device plug must be angled at 90 degrees and be as thin as possible(P7).<br>
 
 **Software / Functionality Requirements**<br>
-* 2.1.1 Device must have redundancy in case of one of the control methods failing. This would allow the devivice to continue working in case of failure.<br>
-* 2.2.1 Device should be configurable and operable in less than 5 minutes.<br>
-* 2.3.1 Device must allow for manual physical control and programming.<br>
+* 2.1.1 Device must have redundancy in case of one of the control methods failing. This would allow the devivice to continue working in case of failure(P3).<br>
+* 2.2.1 Device should be configurable and operable in less than 5 minutes(P5).<br>
+* 2.3.1 Device must allow for manual physical control and programming(P3).<br>
 * 2.4.1 Device should allow for control grouping with additional surge protector products of its kind.<br>
 
 **Interactivity & User Experience Requirements**<br>
-* 3.1.1 Device should provide information to the user about their power consumption.<br>
-* 3.2.1 Device must display data visually to the customer.<br>
-* 3.3.1 Device outlets should be individually controller by the user.<br>
-* 3.4.1 Device must have voice control integration with a common use assistant such as Google Assistant, Amazon Alexa, Microsoft Cortana, and Siri.<br>
-* 3.5.1 Device must have LED indicators to show which outlets are on and which are off.<br>
+* 3.1.1 Device should provide information to the user about their power consumption(P6).<br>
+* 3.2.1 Device must display data visually to the customer(P6).<br>
+* 3.3.1 Device outlets should be individually controller by the user(P4).<br>
+* 3.4.1 Device must have voice control integration with a common use assistant such as Google Assistant, Amazon Alexa, Microsoft Cortana, and Siri(P6).<br>
+* 3.5.1 Device must have LED indicators to show which outlets are on and which are off(P5).<br>
 
 **Customization Requirements**<br>
-* 4.1.1 Device supports three control interfaces: physical buttons with a screen to display information, mobile app, and web interface.<br>
-* 4.1.2 Device has a port for reprogramming.<br>
-* 4.1.3 Source code is accessible for reprogramming.<br>
-* 4.2.1 Power settings for each plug and USB-port can be specified with the control interface.
-* 4.2.2 Device provides real time feedback for desired output and delivers within +-5% of what was specified.<br>
-* 4.3.1 Ports are mounted on interchangable modules with standardized connectors.<br>
-* 4.3.2 User can rearrange or swap out port types to design their own array of power sources.<br>
+* 4.1.1 Device supports three control interfaces: physical buttons with a screen to display information, mobile app, and web interface(P3).<br>
+* 4.1.2 Device has a port for reprogramming(P10).<br>
+* 4.1.3 Source code is accessible for reprogramming(P10).<br>
+* 4.2.1 Power settings for each plug and USB-port can be specified with the control interface(P6).<br>
+* 4.2.2 Device provides real time feedback for desired output and delivers within +-5% of what was specified(P4).<br>
+* 4.3.1 Ports are mounted on interchangable modules with standardized connectors(P8).<br>
+* 4.3.2 User can rearrange or swap out port types to design their own array of power sources(P8).<br>
 
 **Manufacturing Requirements**<br>
-* 5.1.1 Material besides internal PCB and Curiosity Nano controllers is sourced from at least two different materials in case of unavailability.<br>
-* 5.1.2 There are at least two ways to manufacture the outer shell of the assembly, e.g. 3D printing or injection molding.<br>
-* 5.1.3 Assembly time is under 30 minutes using basic hand tools.<br>
-* 5.2.1 Enclosure meets IP65 rating for dust and water resistance while components are plugged in.<br>
-* 5.2.2 Enclosure must pass 10 simulated outdoor durability tests, including being sprayed with water, shaken around in a container of dust, and a drop from shoulder height while components are plugged in (specific moisture level and particulate level to pass TBD).<br>
-* 5.3.1 Outer shell assembly is made from biodegradable or recyclable plastic.<br>
-* 5.4 PIC Curiosity Nanos are mounted on headers allowing removal/replacement in under 2 minutes without soldering.<br>
+* 5.1.1 Material besides internal PCB and Curiosity Nano controllers is sourced from at least two different materials in case of unavailability(P9).<br>
+* 5.1.2 There are at least two ways to manufacture the outer shell of the assembly, e.g. 3D printing or injection molding(P9).<br>
+* 5.1.3 Assembly time is under 30 minutes using basic hand tools(P9).<br>
+* 5.2.1 Enclosure meets IP65 rating for dust and water resistance while components are plugged in(P2).<br>
+* 5.2.2 Enclosure must pass 10 simulated outdoor durability tests, including being sprayed with water, shaken around in a container of dust, and a drop from shoulder height while components are plugged in (specific moisture level and particulate level to pass TBD)(P2).<br>
+* 5.3.1 PIC Curiosity Nanos are mounted on headers allowing removal/replacement in under 2 minutes without soldering(P9).<br>
+* 5.4.1 Outer shell assembly is made from biodegradable or recyclable plastic(P9).<br>
+
 
 **Safety Requirements**<br>
-* 6.1.1 Device includes automatic shutoff when current exceeds rated current(TBD); recovery requires manual reset.<br>
-* 6.2.1 IEC 62368-1 compliant.<br>
-* 6.3.1 Includes EMI filters and transient voltage suppressors that reduce spikes to below 5% of rated current (TBD), verified via oscilloscope.<br>
-* 6.5.1 Product operates between 32 - 122 degrees F.<br>
-* 6.5.2 Product does not exceed 122 degrees F during intended use.<br>
-* 6.5.3 On board temperature sensor automatically shuts off device if temperature exceeds 122 F.<br>
+* 6.1.1 Device includes automatic shutoff when current exceeds rated current(TBD); recovery requires manual reset(P1).<br>
+* 6.2.1 IEC 62368-1 compliant(P1).<br>
+* 6.3.1 Includes EMI filters and transient voltage suppressors that reduce spikes to below 5% of rated current (TBD), verified via oscilloscope(P1).<br>
+* 6.5.1 Product operates between 32 - 122 degrees F(P2).<br>
+* 6.5.2 Product does not exceed 122 degrees F during intended use(P2).<br>
+* 6.5.3 On board temperature sensor automatically shuts off device if temperature exceeds 122 F(P1).<br>
 
 ## Open Questions
 * Can we manufacture this product for under $100?
