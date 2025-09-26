@@ -5,8 +5,6 @@ tags:
 - tag2
 ---
 
-googoo
-
 ## Intro/overview
 
 Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
