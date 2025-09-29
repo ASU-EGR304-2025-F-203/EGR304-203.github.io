@@ -35,9 +35,11 @@ Through this process of meeting, documenting, grouping, and ranking, we transfor
 ![Brainstorming ideas and categories](Brainstorming1.jpeg)<br><br><br><br>
 
 - ### The brainstorming ideas were then ranked first into four tiers, High Importance Features (High tier), Important Features (Mid tier), Low Importance Features (Low tier), and the very low tier. Here we focused on keeping the features that would impact the cutomer the most for performance, safety, and reliability, while also making sure we to not neglet the main complaints that were brought up when we investigated customer feedback.<br>
+
+- ### You will also notice our team quickly realized that we could group all these important and not so important features toghether. This is where we did our first official pass of our feature list, and is where we evolved our tier ranking system into some thing more practical. In this pass, we moved all critical features into our "Core features" container, then the more useful, but not critical features were placed in the "Added Features" container, and lastly the features that did not fall into the first two containers were placed in the "Cosmetic.." container.<br>
 ![Brainstorming ideas first pass](Brainstorming2.jpeg)<br>
 
-- ### In our final pass the brainstorming ideas got re-ranked and with more stipulations such as feasability and budget contraints. Removed features are placed in the discarded features boxes. We also did away with the tier ranking system and we instead grouped the most important features into our "Core features" container, then the more useful, but not critical features were placed in the "Added Features" container, and lastly the features that did not fall into the first two containers were placed in the "Cosmetic.." container. It is also important to note that the containers themselves were re-ordere to have the most important features on the left and least important features on the right.<br>
+- ### In our final pass the brainstorming ideas got re-ranked and with more stipulations such as feasability and budget contraints. Removed features are placed in the discarded features boxes.It is also important to note that the containers themselves were re-ordere to have the most important features on the left and least important features on the right.<br>
 ![Brainstorming ideas last pass and discarded ideas](Brainstorming3.jpeg)<br>
 ## Our 3 Concept Designs<br>
 
