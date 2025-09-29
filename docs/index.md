@@ -26,9 +26,9 @@ Kevin Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | ------------------------------------------------|
-| Armando Botiller       | [botilarm.github/](https://botilarm.github.io/) |
-| Manuel Castro          | [mcastr11-collab/](https://github.com/mcastr11-collab) |
+| Armando Botiller       | [botilarm.github](https://botilarm.github.io/) |
+| Manuel Castro          | [mcastr11-collab](https://github.com/mcastr11-collab) |
 | Ayush Rathi            | link |
 
 ## Current Design Ideas
-> Please see our current design ideas here [Ideation and Concept Generation/](https://asu-egr304-2025-f-203.github.io/EGR304-203.github.io/05-design-ideation/)
+> Please see our current design ideas here [Ideation and Concept Generation](https://asu-egr304-2025-f-203.github.io/EGR304-203.github.io/05-design-ideation/)
