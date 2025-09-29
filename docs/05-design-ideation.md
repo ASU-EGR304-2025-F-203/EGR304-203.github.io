@@ -1,10 +1,10 @@
 ---
-title: Sparky Smart Power Solution
+title: Design Ideation
 tags:
 - tag1
 - tag2
 ---
-
+## Sparky Smart Power Solutions<br>
 ## Intro/overview<br>
 
 The process of generating feature ideas from our requirements and customer feedback took two team meetings and inernal discussions with the team as we compiled lists, ranked the features, and ultimately sorted them to create three different product options. At the end our team came up with the following product offerings:
