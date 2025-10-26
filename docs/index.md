@@ -31,4 +31,7 @@ Kevin Nichols<br>
 | Ayush Rathi            | link |
 
 ## Current Design Ideas
-> Please see our current design ideas here [Ideation and Concept Generation](https://asu-egr304-2025-f-203.github.io/EGR304-203.github.io/05-design-ideation/)
+> Please see our current design ideas here: [Ideation and Concept Generation](https://asu-egr304-2025-f-203.github.io/EGR304-203.github.io/05-design-ideation/).
+
+## Team Block Diagram
+> Navigate here to see our team's diagram which shows an overview of our microcontroller's connections and communications: [Team Block Diagram](https://asu-egr304-2025-f-203.github.io/EGR304-203.github.io/06-team-block-diagram/).
