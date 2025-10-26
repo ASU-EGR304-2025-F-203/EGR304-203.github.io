@@ -28,7 +28,7 @@ Kevin Nichols<br>
 | ---------------------- | ------------------------------------------------|
 | Armando Botiller       | [botilarm.github](https://botilarm.github.io/) |
 | Manuel Castro          | [mcastr11-collab](https://github.com/mcastr11-collab) |
-| Ayush Rathi            | link |
+| Ayush Rathi            | [arathi14-coder](https://arathi14-coder.github.io/arathi14-coder.github.oi/) |
 
 ## Current Design Ideas
 > Please see our current design ideas here: [Ideation and Concept Generation](https://asu-egr304-2025-f-203.github.io/EGR304-203.github.io/05-design-ideation/).
