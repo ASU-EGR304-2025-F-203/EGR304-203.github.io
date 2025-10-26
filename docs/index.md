@@ -28,9 +28,9 @@ We are making a smart outlet that can monitor power indoor and outdoor that does
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | ------------------------------------------------|
+| Ayush Rathi            | [arathi14-coder](https://arathi14-coder.github.io/arathi14-coder.github.oi/) |
 | Manuel Castro          | [mcastr11-collab](https://mcastr11-collab.github.io/EGR304MannyIndividualDataSheet/) |
 | Armando Botiller       | [botilarm](https://botilarm.github.io/) |
-| Ayush Rathi            | link |
 
 ## Current Design Ideas
 > Please see our current design ideas here: [Ideation and Concept Generation](https://asu-egr304-2025-f-203.github.io/EGR304-203.github.io/05-design-ideation/).
