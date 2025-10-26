@@ -26,7 +26,12 @@ Kevin Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | ------------------------------------------------|
-| Armando Botiller       | [botilarm.github/](https://botilarm.github.io/) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| Armando Botiller       | [botilarm.github](https://botilarm.github.io/) |
+| Manuel Castro          | [mcastr11-collab](https://github.com/mcastr11-collab) |
+| Ayush Rathi            | link |
+
+## Current Design Ideas
+> Please see our current design ideas here: [Ideation and Concept Generation](https://asu-egr304-2025-f-203.github.io/EGR304-203.github.io/05-design-ideation/).
+
+## Team Block Diagram
+> Navigate here to see our team's diagram which shows an overview of our microcontroller's connections and communications: [Team Block Diagram](https://asu-egr304-2025-f-203.github.io/EGR304-203.github.io/06-team-block-diagram/).
