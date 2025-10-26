@@ -17,16 +17,10 @@ The intention of this section is to provide you with an overview of what our sub
 **Figure 1:** Software proposal logic diagram<br>
 
 ![Software logic diagram](Softwarediagram2.jpg)
+**Figure 2:** Updated software proposal logic diagram.<br>
+We felt that an updated diagram was warranted since our team felt that the logic did not have an end as it is always running in a continuous repeating loop that is checking to see if the required conditions are met to take action.
 
-
-## Concept Designs ##
-![showcase](earlyconcept.jpg)<br>
-**Figure 2:** Our first concept design that was created during our first brainstorming session.<br>
-
-![showcase](revisedconcept.jpg)<br>
-**Figure 2:** After many internal discussions, our team narrowed down the next evolution of our concept to a feasable and attainable goal.<br>
-
-Here is a link to our team's Lucid Chart diagram that was showcased on figure 1[Link to Lucid Chart Diagram](https://lucid.app/lucidspark/50a3b367-512a-4085-a351-7ba08a005a17/edit?viewport_loc=-1504%2C4113%2C4121%2C2114%2C0_0&invitationId=inv_718e862a-cc1e-4b68-8ead-81b798ccf1a2)
+Here is a link to our team's Lucid Chart diagram that was showcased on figures 1 & 2 [Link to Lucid Chart Diagram](https://lucid.app/lucidspark/50a3b367-512a-4085-a351-7ba08a005a17/edit?viewport_loc=-1504%2C4113%2C4121%2C2114%2C0_0&invitationId=inv_718e862a-cc1e-4b68-8ead-81b798ccf1a2)
 
 
 ## Results
