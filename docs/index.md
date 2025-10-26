@@ -22,7 +22,7 @@ Our team got together with the simple goal of revitalizing the charging experien
 
 We are making a smart outlet that can monitor power indoor and outdoor that does away with the network connectivity and latency woes that plague current market offerings.
 
-<font size="3">Below are sections with links to our team member's individual datasheets for our subsystems. You will also find links that take you through our design journey in the below "Design Ideation" and "Team Block Diagram" sections<br>
+>Below are sections with links to our team member's individual datasheets for our subsystems. You will also find links that take you through our design journey in the below "Design Ideation" and "Team Block Diagram" sections<br>
 
 ## Team Members Datasheet links
 

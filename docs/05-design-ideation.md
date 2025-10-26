@@ -61,9 +61,9 @@ Through this process of meeting, documenting, grouping, and ranking, we transfor
 
 ## Concept Sketches
 ![showcase](earlyconcept.jpg)<br>
-**Figure 1:** Our first concept design that was created during our first brainstorming session.<br>
+**Figure 1:** Our first concept design that was created during our first brainstorming session.<br><br>
 In this design we originally intended for the charging hub to be protected in an enclosure with a door. The door was to be actuated via a DC motor with limit switches controlling when to stop the motor from spining and a H bridge to reverse the direction. While the idea was good on paper, this setup added more development time and resourses that our team felt would be best used in other aspects of the project.
 
 ![showcase](revisedconcept.jpg)<br>
-**Figure 2:** After many internal discussions, our team narrowed down the next evolution of our concept to a feasable and attainable goal.<br>
+**Figure 2:** After many internal discussions, our team narrowed down the next evolution of our concept to a feasable and attainable goal.<br><br>
 We updated our original vision to simplify the operation of the door with a solenoid and a manually operated cover. As you notice in the design, the charging hub changed to a single outlet. We felt for our proof of concept prototype simple would be beter and more economical for our team to develop in the given amount of time.
