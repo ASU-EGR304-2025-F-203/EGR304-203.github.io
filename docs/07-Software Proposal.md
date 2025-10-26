@@ -28,7 +28,6 @@ Here is a link to our team's Lucid Chart diagram that was showcased on figure 1[
 
 
 ## Results
-
 1. Our logic does not have an end as it loops continuously as long as the design is being powered.
 2. We successfully represented the logic with the correct shapes [1].
 3. We decided an activity diagram best models our logic because our code will be instructions carried out one after another with only a few conditions that change the flow of operations, whereas a state machine model would mean each action has a condition before it [2].
