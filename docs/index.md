@@ -26,7 +26,7 @@ Kevin Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | ------------------------------------------------|
-| Armando Botiller       | [botilarm.github](https://botilarm.github.io/) |
+| Armando Botiller       | [botilarm](https://botilarm.github.io/) |
 | Manuel Castro          | [mcastr11-collab](https://github.com/mcastr11-collab) |
 | Ayush Rathi            | link |
 
