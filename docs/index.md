@@ -28,8 +28,8 @@ We are making a smart outlet that can monitor power indoor and outdoor that does
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | ------------------------------------------------|
-| Armando Botiller       | [botilarm.github](https://botilarm.github.io/) |
 | Manuel Castro          | [mcastr11-collab](https://mcastr11-collab.github.io/EGR304MannyIndividualDataSheet/) |
+| Armando Botiller       | [botilarm](https://botilarm.github.io/) |
 | Ayush Rathi            | link |
 
 ## Current Design Ideas
