@@ -27,7 +27,7 @@ Kevin Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | ------------------------------------------------|
 | Armando Botiller       | [botilarm.github](https://botilarm.github.io/) |
-| Manuel Castro          | [mcastr11-collab](https://github.com/mcastr11-collab) |
+| Manuel Castro          | [mcastr11-collab](https://mcastr11-collab.github.io/EGR304MannyIndividualDataSheet/) |
 | Ayush Rathi            | link |
 
 ## Current Design Ideas
