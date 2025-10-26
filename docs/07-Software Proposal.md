@@ -16,6 +16,8 @@ The intention of this section is to provide you with an overview of what our sub
 ![Software logig diagram](Softwarediagram.jpg)<br>
 **Figure 1:** Softare proposal logic diagram<br>
 
+![Software logic diagram](Softwarediagram2.jpg)
+
 
 ## Concept Designs ##
 ![showcase](earlyconcept.jpg)<br>

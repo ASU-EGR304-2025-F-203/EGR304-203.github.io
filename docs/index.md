@@ -17,10 +17,12 @@ Kevin Nichols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
 
+Our team got together with the simple goal of revitalizing the charging experience for everyone. Armando Botiller, Ayush Tathi, and Manuel Castro bring their expertise in Robotics Engineering together to innovate home solutions with sensor based technology and improve day to day life.
+
+We are making a smart outlet that can monitor power indoor and outdoor that does away with the network connectivity and latency woes that plague current market offerings.
+
+<font size="6">Below are sections with likns to our team member's individual datasheets for our subsystems. There are also links that take you through our design journey in the below "Design Ideation" and "Team Block Diagram" sections<br>
 
 ## Team Members Datasheet links
 
