@@ -12,8 +12,8 @@ The team block diagram demonstrates how each PIC Curiosity Nano micocontroller w
 The diagram shown above was our first attempt at a simplifcation of our idea into a demo where each microcontroller has at least one analog sensor or actuator with the required filters, amplifiers, or drivers.
 
 **Notes from this iteration:**
- 1. We didn't realize our boards all needed to communicate to at least one other board.
- 2. Manny's board was initially planned to include a motor with a door latch solenoid, plus limit switches to determine when the door was open or closed.
+ 1. We didn't realize our boards all needed to communicate to at least one other board. <br>
+ 2. Manny's board was initially planned to include a motor with a door latch solenoid, plus limit switches to determine when the door was open or closed. <br>
  3. We believed it necessary to have both a voltage sensor and a current sensor. <br>
 
  ## Final Iteration
