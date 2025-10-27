@@ -19,14 +19,14 @@ tags:
 ## Use Cases
 
 **User Story #1: peter**
-Peter is a 42 -year-old homeowner who enjoys seetting up his backyard for family gatherings and seasonal decorations.He recently purchased the HBN Outdoor smart plug to manage his string lights and small fountain. The installation was straightfoward, the rugged stick pushed firmily into the ground,and the weather resistant spring covers gave him confidence that the outlets would stay safe from the rain and dust. with Wifi connectivity, Peter quickly programmed schedules from his phone so the lights automatically turned on at dusk.
+Emily is a 35-year-old mother of two small children. She frequently uses many extension cables for her kids night lights, phone chargers, and living room lamps because she enjoys decorating her house. Emily made the decision to convert to Spark Guard, the smart extension cable with built-in safety safeguards, when her toddler nearly touched an exposed electrical outlet.
 
-Over time, Peter noticed how well the product matched his expectations. The heavy six-foot cord allowed him to reach power comfortably, and the photocell sensor made sure his Christmas lights stayed on after dusk without extra effort. He even enjoyed the small touch of the included remote, which let him control the outlets when his phone wasn’t nearby.
+Ports are now kept closed when not in use thanks to Spark Guard's child-safe locking cover. Emily is no longer concerned about small, inquisitive hands being close to electricity. The voice-activated solenoid mechanism opens the outlet safely. When she needs to plug something in, she can see when the power is on thanks to the integrated LED indicator, and she can monitor her energy consumption in real time thanks to the digital display.
 
 **User Story #2: Ayush**
-Ayush is a 21 year old student, he recently upgraded his home office setup with the Kasa Smart Plug Power Strip KP303. He works remotely and wanted something easy to manage multiple devices without clutter. The simple app setup impressed him, it connected quickly to his Alexa, and within minutes, he could control his desk lamp, monitor and coffee machine with his voice. He found the interface intuitive and reliable, matching what others had said in their reviews. For Ayush, not having to juggle multiple individual plugs was a relief,  one strip that could handle all his essentials felt both practical and cost-effective.
+Ethan is a 22 year old off-campus engineering student, dealing with rising SRP electrical costs as a result of his laptop, gaming setup, and 3D printer. He used the Spark Guard Smart Extension Cord to control his energy usage  and it completely changed the way he tracked power usage. He was able to detect high-usage equipment with the aid of the digital display and switch them off overnight, saving about 20% on his monthly payment.
 
-On weekends, Ayush enjoys experimenting with tech projects, so the extra flexibility came in handy. Inspired by a review, he used the power strip in his Halloween setup, running lights and sound effects triggered from his PC with a simple script. The surge protection gave him peace of mind while powering multiple gadgets, and the individual control over outlets meant he could turn off just the devices he didn’t need.
+The voice-activated solenoid lid kept unused outlets locked for safety, while the LED indicator indicated whether current was flowing. The tight lid prevented a short circuit when his roommate spilled a drink close by. Ethan now has peace of mind, safety and energy savings in one stylish gadget thanks to Spark Guard's integration with his smart assistant, which also turns down and locks automatically.
 
 ## Aspects
 
