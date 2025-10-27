@@ -3,32 +3,21 @@ title: Software Proposal
 ---
 
 ## Introduction
-The intention of this section is to provide you with an overview of what our subsystem logic looks like overall, and how each individual functionality becomes one logical flow. Below are some questions we asked ourselves as we reseached our solutions and the sofware logic diagram that we produced.
+In this UML format diagram we walk you though each action that is taken when the user interacts with our product and how those trigger certain operations in our individual subsystems. The diagram is divided into a "User Side", "Voice Recognition", "Door Actuator", and "Power Monitoring" sections that showcase what operations happen when conditions are met.
+Our current software proposal meets our requirements of localized control, voice recognition, reliable energy monitoring, and it provides safety features for the end user and their families.
 
 ## Research Questions
-
 1. Does our subsystem logic have an end?
 2. What are the shapes for UML activity or state machine diagram?
 3. What better represents our logic: activity diagram or state machine diagram?
 
 ## Software Diagram
-
 ![Software logig diagram](Softwarediagram.jpg)<br>
 **Figure 1:** Software proposal logic diagram<br>
 
 ![Software logic diagram](Softwarediagram2.jpg)
 **Figure 2:** Updated software proposal logic diagram.<br>
 We felt that an updated diagram was warranted since our team felt that the logic did not have an end as it is always running in a continuous repeating loop that is checking to see if the required conditions are met to take action.
-
-## Concept Designs ##
-![showcase](earlyconcept.jpg)<br>
-**Figure 2:** Our first concept design that was created during our first brainstorming session.<br>
-
-![showcase](revisedconcept.jpg)<br>
-**Figure 2:** After many internal discussions, our team narrowed down the next evolution of our concept to a feasable and attainable goal.<br>
-
-In this UML format diagram we walk you though each action that is taken when the user interacts with our product and how those trigger certain operations in our individual subsystems. The diagram is divided into a "User Side", "Voice Recognition", "Door Actuator", and "Power Monitoring" sections that showcase what operations happen when conditions are met.
-Our current software proposal meets our requirements of localized control, voice recognition, reliable energy monitoring, and it provides safety features for the end user and their families.
 
 ## Results (answers to research questions) 
 1. Our logic does not have an end as it loops continuously as long as the design is being powered.
