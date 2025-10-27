@@ -30,4 +30,3 @@ We felt that an updated diagram was warranted since our team felt that the logic
 ## References
 [1] [Activity Diagrams - Unified Modeling Language (UML)](https://www.geeksforgeeks.org/system-design/unified-modeling-language-uml-activity-diagrams/)<br>
 [2] [What is the difference between State Machine Diagram and Activity Diagram?](https://www.geeksforgeeks.org/system-design/what-is-the-difference-between-state-machine-diagram-and-activity-diagram/)
-
