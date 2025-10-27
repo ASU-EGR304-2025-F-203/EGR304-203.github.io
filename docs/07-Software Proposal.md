@@ -16,6 +16,9 @@ The intention of this section is to provide you with an overview of what our sub
 ![Software logig diagram](Softwarediagram.jpg)<br>
 **Figure 1:** Software proposal logic diagram<br>
 
+![Software logic diagram](Softwarediagram2.jpg)
+**Figure 2:** Updated software proposal logic diagram.<br>
+We felt that an updated diagram was warranted since our team felt that the logic did not have an end as it is always running in a continuous repeating loop that is checking to see if the required conditions are met to take action.
 
 ## Concept Designs ##
 ![showcase](earlyconcept.jpg)<br>
@@ -24,6 +27,8 @@ The intention of this section is to provide you with an overview of what our sub
 ![showcase](revisedconcept.jpg)<br>
 **Figure 2:** After many internal discussions, our team narrowed down the next evolution of our concept to a feasable and attainable goal.<br>
 
+In this UML format diagram we walk you though each action that is taken when the user interacts with our product and how those trigger certain operations in our individual subsystems. The diagram is divided into a "User Side", "Voice Recognition", "Door Actuator", and "Power Monitoring" sections that showcase what operations happen when conditions are met.
+Our current software proposal meets our requirements of localized control, voice recognition, reliable energy monitoring, and it provides safety features for the end user and their families.
 
 ## Results (answers to research questions) 
 1. Our logic does not have an end as it loops continuously as long as the design is being powered.
