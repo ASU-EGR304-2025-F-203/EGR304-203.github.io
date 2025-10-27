@@ -7,13 +7,11 @@ In this UML format diagram we walk you though each action that is taken when the
 Our current software proposal meets our requirements of localized control, voice recognition, reliable energy monitoring, and it provides safety features for the end user and their families.
 
 ## Research Questions
-
 1. Does our subsystem logic have an end?
 2. What are the shapes for UML activity or state machine diagram?
 3. What better represents our logic: activity diagram or state machine diagram?
 
 ## Software Diagram
-
 ![Software logig diagram](Softwarediagram.jpg)<br>
 **Figure 1:** Software proposal logic diagram<br>
 
