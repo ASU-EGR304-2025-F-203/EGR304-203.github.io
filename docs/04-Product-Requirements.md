@@ -19,12 +19,12 @@ tags:
 ## Use Cases
 
 **User Story #1: Emily**
-Emily is a 35-year-old mother of two small children. She frequently uses many extension cables for her kids night lights, phone chargers, and living room lamps because she enjoys decorating her house. Emily made the decision to convert to Spark Guard, the smart extension cable with built-in safety safeguards, when her toddler nearly touched an exposed electrical outlet.
+is a 35-year-old mother of two small children. She frequently uses many extension cables for her kids night lights, phone chargers, and living room lamps because she enjoys decorating her house. Emily made the decision to convert to Spark Guard, the smart extension cable with built-in safety safeguards, when her toddler nearly touched an exposed electrical outlet.
 
 Ports are now kept closed when not in use thanks to Spark Guard's child-safe locking cover. Emily is no longer concerned about small, inquisitive hands being close to electricity. The voice-activated solenoid mechanism opens the outlet safely. When she needs to plug something in, she can see when the power is on thanks to the integrated LED indicator, and she can monitor her energy consumption in real time thanks to the digital display.
 
 **User Story #2: Ethan**
-Ethan is a 22 year old off-campus engineering student, dealing with rising SRP electrical costs as a result of his laptop, gaming setup, and 3D printer. He used the Spark Guard Smart Extension Cord to control his energy usage  and it completely changed the way he tracked power usage. He was able to detect high-usage equipment with the aid of the digital display and switch them off overnight, saving about 20% on his monthly payment.
+is a 22 year old off-campus engineering student, dealing with rising SRP electrical costs as a result of his laptop, gaming setup, and 3D printer. He used the Spark Guard Smart Extension Cord to control his energy usage  and it completely changed the way he tracked power usage. He was able to detect high-usage equipment with the aid of the digital display and switch them off overnight, saving about 20% on his monthly payment.
 
 The voice-activated solenoid lid kept unused outlets locked for safety, while the LED indicator indicated whether current was flowing. The tight lid prevented a short circuit when his roommate spilled a drink close by. Ethan now has peace of mind, safety and energy savings in one stylish gadget thanks to Spark Guard's integration with his smart assistant, which also turns down and locks automatically.
 
