@@ -5,9 +5,9 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Embedded Systems Design Home Solution<br>
+<font size="8">Embedded Systems Design: Spark Guard<br>
 <font size="5">Team 203<br>
-**Submission: 09, 05, 2025**<br>
+**Submission: 10/26/2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
