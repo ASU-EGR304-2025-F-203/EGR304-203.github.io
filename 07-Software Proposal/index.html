@@ -564,9 +564,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#research-question" class="md-nav__link">
+  <a href="#research-questions" class="md-nav__link">
     <span class="md-ellipsis">
-      Research Question
+      Research Questions
     </span>
   </a>
   
@@ -582,9 +582,27 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#results" class="md-nav__link">
+  <a href="#concept-designs" class="md-nav__link">
     <span class="md-ellipsis">
-      Results
+      Concept Designs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#results-answers-to-research-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Results (answers to research questions)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#external-links" class="md-nav__link">
+    <span class="md-ellipsis">
+      External links
     </span>
   </a>
   
@@ -695,9 +713,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#research-question" class="md-nav__link">
+  <a href="#research-questions" class="md-nav__link">
     <span class="md-ellipsis">
-      Research Question
+      Research Questions
     </span>
   </a>
   
@@ -713,9 +731,27 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#results" class="md-nav__link">
+  <a href="#concept-designs" class="md-nav__link">
     <span class="md-ellipsis">
-      Results
+      Concept Designs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#results-answers-to-research-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Results (answers to research questions)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#external-links" class="md-nav__link">
+    <span class="md-ellipsis">
+      External links
     </span>
   </a>
   
@@ -756,11 +792,11 @@
   <h1>Software Proposal</h1>
 
 <h2 id="introduction">Introduction</h2>
-<p>The intention of this section is to provide you with an overview of what our subsystem logic looks like overall, and how each individual PCB interacts and communicate with one another. Below are some questions we asked ourselves as we reseached our solutions and the sofware logic diagram that we produced.</p>
-<h2 id="research-question">Research Question</h2>
+<p>The intention of this section is to provide you with an overview of what our subsystem logic looks like overall, and how each individual functionality becomes one logical flow. Below are some questions we asked ourselves as we reseached our solutions and the sofware logic diagram that we produced.</p>
+<h2 id="research-questions">Research Questions</h2>
 <ol>
 <li>Does our subsystem logic have an end?</li>
-<li>What were the shapes for UML activity or state machine diagram?</li>
+<li>What are the shapes for UML activity or state machine diagram?</li>
 <li>What better represents our logic: activity diagram or state machine diagram?</li>
 </ol>
 <h2 id="software-diagram">Software Diagram</h2>
@@ -769,17 +805,26 @@
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Softwarediagram2.jpg" data-desc-position="bottom"><img alt="Software logic diagram" src="../Softwarediagram2.jpg"></a>
 <strong>Figure 2:</strong> Updated software proposal logic diagram.<br>
 We felt that an updated diagram was warranted since our team felt that the logic did not have an end as it is always running in a continuous repeating loop that is checking to see if the required conditions are met to take action.</p>
-<p>In this UML format diagram we walk you though each action that is taken when the user interacts with our product and how those trigger certain operations in our individual subsystems. The diagram is divided into a "User Side", "Voice Recognition", "Door Actuator", and "Power Monitoring" sections that showcase what operations happen when conditions are met.</p>
-<p>Our current software proposal meets our requirements of localized control, voice recognition, reliable energy monitoring, and it provides safety features for the end user and their families.</p>
-<h2 id="results">Results</h2>
+<h2 id="concept-designs">Concept Designs</h2>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../earlyconcept.jpg" data-desc-position="bottom"><img alt="showcase" src="../earlyconcept.jpg"></a><br>
+<strong>Figure 2:</strong> Our first concept design that was created during our first brainstorming session.<br></p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../revisedconcept.jpg" data-desc-position="bottom"><img alt="showcase" src="../revisedconcept.jpg"></a><br>
+<strong>Figure 2:</strong> After many internal discussions, our team narrowed down the next evolution of our concept to a feasable and attainable goal.<br></p>
+<p>In this UML format diagram we walk you though each action that is taken when the user interacts with our product and how those trigger certain operations in our individual subsystems. The diagram is divided into a "User Side", "Voice Recognition", "Door Actuator", and "Power Monitoring" sections that showcase what operations happen when conditions are met.
+Our current software proposal meets our requirements of localized control, voice recognition, reliable energy monitoring, and it provides safety features for the end user and their families.</p>
+<h2 id="results-answers-to-research-questions">Results (answers to research questions)</h2>
 <ol>
 <li>Our logic does not have an end as it loops continuously as long as the design is being powered.</li>
 <li>We successfully represented the logic with the correct shapes [1].</li>
 <li>We decided an activity diagram best models our logic because our code will be instructions carried out one after another with only a few conditions that change the flow of operations, whereas a state machine model would mean each action has a condition before it [2].</li>
 </ol>
+<h2 id="external-links">External links</h2>
+<ol>
+<li><a href="https://lucid.app/lucidspark/50a3b367-512a-4085-a351-7ba08a005a17/edit?viewport_loc=-1504%2C4113%2C4121%2C2114%2C0_0&amp;invitationId=inv_718e862a-cc1e-4b68-8ead-81b798ccf1a2">Link to Lucid Chart Diagram Source (Figure 1)</a></li>
+</ol>
 <h2 id="references">References</h2>
-<p>[1] <a href="https://www.geeksforgeeks.org/system-design/unified-modeling-language-uml-activity-diagrams/">Activity Diagrams - Unified Modeling Language (UML)</a>
-[2] <a href="https://www.geeksforgeeks.org/system-design what-is-the-difference-between-state-machine-diagram-and-activity-diagram/">What is the difference between State Machine Diagram and Activity Diagram?</a></p>
+<p>[1] <a href="https://www.geeksforgeeks.org/system-design/unified-modeling-language-uml-activity-diagrams/">Activity Diagrams - Unified Modeling Language (UML)</a><br>
+[2] <a href="https://www.geeksforgeeks.org/system-design/what-is-the-difference-between-state-machine-diagram-and-activity-diagram/">What is the difference between State Machine Diagram and Activity Diagram?</a></p>
 
 
 

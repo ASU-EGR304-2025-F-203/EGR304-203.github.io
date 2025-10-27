@@ -541,20 +541,23 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Introduction">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#team-block-diagram-update-v2" class="md-nav__link">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#first-iteration" class="md-nav__link">
     <span class="md-ellipsis">
-      Team Block Diagram Update V2
+      First Iteration
     </span>
   </a>
   
 </li>
-        
-      </ul>
-    </nav>
+      
+        <li class="md-nav__item">
+  <a href="#decision-making-process" class="md-nav__link">
+    <span class="md-ellipsis">
+      Decision making process
+    </span>
+  </a>
   
 </li>
       
@@ -671,20 +674,23 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Introduction">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#team-block-diagram-update-v2" class="md-nav__link">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#first-iteration" class="md-nav__link">
     <span class="md-ellipsis">
-      Team Block Diagram Update V2
+      First Iteration
     </span>
   </a>
   
 </li>
-        
-      </ul>
-    </nav>
+      
+        <li class="md-nav__item">
+  <a href="#decision-making-process" class="md-nav__link">
+    <span class="md-ellipsis">
+      Decision making process
+    </span>
+  </a>
   
 </li>
       
@@ -714,10 +720,24 @@
   <h1>Team Block Diagram</h1>
 
 <h2 id="introduction">Introduction</h2>
-<p>This diagram demonstrates how each PIC Curiosity Nano micocontroller will take in analog signals, filter them, and process them through specific input pins, and which pins will output to analog devices or digital pins. Finally the diagram shows how we will communicate across microcontrollers using the 8 pin ribbon connectors. <br>
-<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Team203BlockDiagram.jpeg" data-desc-position="bottom"><img alt="Team Block Diagram" src="../Team203BlockDiagram.jpeg"></a></p>
-<h3 id="team-block-diagram-update-v2">Team Block Diagram Update V2</h3>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Team203BlockDiagramupdated.jpg" data-desc-position="bottom"><img alt="Team Block Diagram V2" src="../Team203BlockDiagramupdated.jpg"></a></p>
+<p>The team block diagram demonstrates how each PIC Curiosity Nano micocontroller will take in analog signals, filter them, and process them through specific input pins, and which pins will output to analog devices or digital pins. Finally the diagram shows how we will communicate across microcontrollers using the 8 pin ribbon connectors. <br></p>
+<h2 id="first-iteration">First Iteration</h2>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Team203BlockDiagram.jpeg" data-desc-position="bottom"><img alt="Team Block Diagram" src="../Team203BlockDiagram.jpeg"></a>
+The diagram shown above was our first attempt at a simplifcation of our idea into a demo where each microcontroller has at least one analog sensor or actuator with the required filters, amplifiers, or drivers.</p>
+<p><strong>Notes from this iteration:</strong>
+ 1. We didn't realize our boards all needed to communicate to at least one other board.
+ 2. Manny's board was initially planned to include a motor with a door latch solenoid, plus limit switches to determine when the door was open or closed.
+ 3. We believed it necessary to have both a voltage sensor and a current sensor.</p>
+<p>## Final Iteration
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Team203BlockDiagram2.png" data-desc-position="bottom"><img alt="Team Block Diagram" src="../Team203BlockDiagram2.png"></a></p>
+<p><strong>Notes from this iteration:</strong>
+1. All boards send/receive some sort of communication
+2. Functionality is simplified and aligns with updated design direction.
+3. Current sensor is all that is required to calculate power with a constant voltage.</p>
+<h2 id="decision-making-process">Decision making process</h2>
+<p>We structured our block diagram to accurately show the inputs and outputs of our boards and which pins and what type of communication we are using between boards.</p>
+<p>The result of this is three separate boards each with female 8 pin connectors that are all going to be connected together. "Connector 1" represents an input connector "Connector 2" represents an output connector.</p>
+<p>The block diagram meets the product requirements because it features the new emphasized product features including: security/safety with the solenoid and microphone, the sensor/display to show power consumption, and the fact that the entire device is contained with these components means it is not reliant on external apps, eliminating connectivity issues.</p>
 
 
 
