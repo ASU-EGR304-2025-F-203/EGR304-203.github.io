@@ -14,7 +14,7 @@ The diagram shown above was our first attempt at a simplifcation of our idea int
 **Notes from this iteration:**
  1. We didn't realize our boards all needed to communicate to at least one other board.
  2. Manny's board was initially planned to include a motor with a door latch solenoid, plus limit switches to determine when the door was open or closed.
- 3. We believed it necessary to have both a voltage sensor and a current sensor.
+ 3. We believed it necessary to have both a voltage sensor and a current sensor. <br>
 
  ## Final Iteration
 ![Team Block Diagram](Team203BlockDiagram2.png)
