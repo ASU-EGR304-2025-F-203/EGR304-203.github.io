@@ -16,7 +16,7 @@ The diagram shown above was our first attempt at a simplifcation of our idea int
  2. Manny's board was initially planned to include a motor with a door latch solenoid, plus limit switches to determine when the door was open or closed.<br>
  3. We believed it necessary to have both a voltage sensor and a current sensor. <br>
  
- ## Final Iteration
+## Final Iteration
 ![Team Block Diagram](Team203BlockDiagram2.png)
 
 **Notes from this iteration:**<br>
