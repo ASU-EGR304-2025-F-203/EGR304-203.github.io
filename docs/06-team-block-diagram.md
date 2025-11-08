@@ -25,6 +25,11 @@ The diagram shown above was our first attempt at a simplifcation of our idea int
 3. Current sensor is all that is required to calculate power with a constant voltage.<br>
 4. Updated microphone sensor path from Manny's individual block diagrams with details<br>
 
+### Team Connectors
+![Team Connectors](teamconnectors.jpg)
+
+Attached [here](Team Connectors.xlsx) is a link to the above excel sheet we developed with further details on the 8 pin connections between subsystems shown on our latest block diagram.
+
 ## Decision making process
 We structured our block diagram to accurately show the inputs and outputs of our boards and which pins and what type of communication we are using between boards.
 
