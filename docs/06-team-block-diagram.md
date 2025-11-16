@@ -17,7 +17,7 @@ The diagram shown above was our first attempt at a simplifcation of our idea int
  3. We believed it necessary to have both a voltage sensor and a current sensor. <br>
  
 ## Latest Iteration
-![Team Block Diagram](Team 203 Block Diagramfinal.png)
+![Team Block Diagram](Team203BlockDiagram2.png)
 
 **Notes from this iteration:**<br>
 1. All boards send/receive some sort of communication<br>
